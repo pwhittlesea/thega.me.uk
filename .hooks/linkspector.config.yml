@@ -18,4 +18,5 @@ aliveStatusCodes:
   - 204
 
   # Acceptable rate limiting response
+  - 403
   - 429
