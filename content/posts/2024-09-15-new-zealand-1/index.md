@@ -88,7 +88,7 @@ This blog is going to exclude a lot of the details of the tour days because I th
 
 The tour organised all the evening accommodation for us and I feared that they would have booked us in the worst hotels to increase their profit[^2].
 This could not have been further from the truth.
-Every hotel room we stayed in was spacious and many had [phenomenal views](new_zealand_0862.jpg).
+Every hotel room we stayed in was spacious and many had [phenomenal views](featured.jpg).
 They were centrally located in every town we stayed in, and I doubt I could have booked nicer ones myself.
 
 <!-- markdown-link-check-disable-next-line -->

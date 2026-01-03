@@ -183,7 +183,7 @@ But it _was_ unique[^4].
 
 {{< map name="monopoli_to_grotte_di_castellana" >}}
 
-First on our list of things to see in the area was the [Grotte di Castellana](https://www.grottedicastellana.it/en/).
+First on our list of things to see in the area was the [Grotte di Castellana](https://www.grottedicastellana.it/).
 It is a famous cave system that was a short drive away from Monopoli.
 
 My first impression of the area was that it reminded me of a small American town's main street.

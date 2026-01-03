@@ -10,7 +10,7 @@ tags: [git, jekyll]
 summary: "I use multiple pre-commit hooks to make sure my posts are really ready. This is my setup."
 ---
 
-You can see my full pre-commit setup [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/main/.pre-commit-config.yaml).
+You can see my full pre-commit setup [here](https://github.com/pwhittlesea/thega.me.uk/blob/f3603c1faf1b09e4d7300a0cce1f93d037c79a7e/.pre-commit-config.yaml).
 There are some extras that are not mentioned on this page, but these are mostly linting tools for the various scripts I am running.
 
 ## Remove Image Metadata
@@ -24,7 +24,7 @@ When posting pictures online it's normally quite prudent to strip all the Exif i
 I do however want to keep some Exif information; the ICC colour profile of the picture is something I want to keep so that it looks correct.
 I also want to add in a Copyright; this won't stop AI's training on my images, but if I see someone profiting off one then I will hopefully have some legal recourse.
 
-For this I need to run `exiftool` (the script can be found [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/main/.hooks/correct_exif.sh)) which I wrap in a 'local' pre-commit hook:
+For this I need to run `exiftool` (the script can be found [here](https://github.com/pwhittlesea/thega.me.uk/blob/f3603c1faf1b09e4d7300a0cce1f93d037c79a7e/.hooks/correct_exif.sh)) which I wrap in a 'local' pre-commit hook:
 
 ```yaml
 repos:
@@ -57,7 +57,7 @@ last_modified_at: 2025-04-27T11:49:52+00:00
 ---
 ```
 
-I will, however, never remember to update these before I commit and push, so I have a simple [script](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/main/.hooks/update_last_modified.sh) which updates them for me with the current time:
+I will, however, never remember to update these before I commit and push, so I have a simple [script](https://github.com/pwhittlesea/thega.me.uk/blob/f3603c1faf1b09e4d7300a0cce1f93d037c79a7e/.hooks/update_last_modified.sh) which updates them for me with the current time:
 
 ```yaml
 repos:
