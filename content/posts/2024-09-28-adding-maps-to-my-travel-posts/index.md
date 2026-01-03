@@ -279,4 +279,4 @@ Hover over the example at the top of this page to see it in action!
 ## The Final Result
 
 You can see the final result on my [New Zealand - Part 1]({{< ref "2024-09-15-new-zealand-1" >}}#wednesday-29th-flying-to-new-zealand) post.
-The source code for which can be found [here](https://github.com/pwhittlesea/pwhittlesea.github.com/blob/main/_posts/2024-09-15-new-zealand-1.md).
+The source code for which can be found [here](https://github.com/pwhittlesea/thega.me.uk/blob/4240ac7bf0501e542a4228dcd970c63075d68ba0/_posts/2024-09-15-new-zealand-1.md).

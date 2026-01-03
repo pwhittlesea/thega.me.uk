@@ -116,6 +116,7 @@ The first issue is with the sub-paths.
 I mentioned earlier that 'Project Sites' show up as a sub-path of your main 'User Site' where the path is the name of the repo you created.
 Even with a custom domain, these sub-paths are still present.
 
+<!-- markdown-link-check-disable-next-line -->
 Right now you can go to [`https://thega.me.uk/pwhittlesea.com`](https://thega.me.uk/pwhittlesea.com), [`https://thega.me.uk/pwhittlesea.co.uk`](https://thega.me.uk/pwhittlesea.co.uk), and [`https://thega.me.uk/wedfest-2017.uk`](https://thega.me.uk/wedfest-2017.uk), which will redirect you to the custom domains (which might then redirect you back here).
 
 This is not an issue for me because I have chosen to name my repositories after the domains themselves.

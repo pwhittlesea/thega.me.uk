@@ -248,7 +248,7 @@ Great Harbour Way is a winding coastal road with beautiful views out into the We
 As we travelled along it, I recognised some houses from a Tom Scott [video](https://www.youtube.com/watch?v=cUkoqppoFr8).
 Many of the houses along Great Harbour Way have private cable cars; allowing owners to get up to their houses on the side of Mount Victoria.
 
-We checked in and were greeted by an [amazing vista](/assets/images/new_zealand/1/new_zealand_0862.jpg) from our hotel window.
+We checked in and were greeted by an [amazing vista](new_zealand_0862.jpg) from our hotel window.
 
 Fuelled by a temporary insanity &mdash; being on a coach for 5 hours can do that to you &mdash; I decided to take a lovely walk along the coastal road.
 I looped back through the [Southern Walk Way](https://wellington.govt.nz/recreation/outdoors/walks-and-walkways/across-the-city/southern-walkway) which, I learned, was a _very_ steep path along the side of the hill.

@@ -144,11 +144,11 @@ The term {{< term "D&D" >}} and {{< term "DM" >}} in some text.
 
 Full width image:
 
-![This is a full width image](/new_zealand_0647.jpg)
+![This is a full width image](new_zealand_0647.jpg)
 
 Half width image:
 
-![This is a half width image](/new_zealand_0647.jpg)
+![This is a half width image](new_zealand_0647.jpg)
 {style="width:50%;"}
 
 ## Code Blocks

@@ -6,9 +6,28 @@
       "replacement": "{{BASEURL}}/assets/$<filename>"
     }
   ],
+  "_comment": "The following URLs are ignored during link checking because they are blocking automated checks",
   "ignorePatterns": [
     {
       "pattern": "https://www.newzealand.com/"
+    },
+    {
+      "pattern": "https://app.thestorygraph.com/"
+    },
+    {
+      "pattern": "https://www.millenniumhotels.com/"
+    },
+    {
+      "pattern": "https://wellington.govt.nz/"
+    },
+    {
+      "pattern": "https://news.ycombinator.com/"
+    },
+    {
+      "pattern": "https://www.longleat.co.uk/"
+    },
+    {
+      "pattern": "https://jayscustomcreations.com/"
     }
   ]
 }
