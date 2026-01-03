@@ -15,4 +15,3 @@ jobs:
       with:
         config-file: .hooks/.markdown-link-check.json
         use-verbose-mode: true
-        use-quiet-mode: true
