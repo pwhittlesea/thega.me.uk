@@ -11,6 +11,7 @@ ignorePatterns:
   - pattern: '^https://www.reddit.com/.*$'
   - pattern: '^https://www.longleat.co.uk/safari$'
   - pattern: '^https://news.ycombinator.com/.*$'
+  - pattern: '^https://app.thestorygraph.com/.*$'
 aliveStatusCodes:
   - 200
   - 201
