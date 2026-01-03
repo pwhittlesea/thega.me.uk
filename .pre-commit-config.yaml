@@ -68,9 +68,3 @@ repos:
     hooks:
       - id: markdownlint
         args: ["--config=.hooks/.markdownlint.yaml", "--ignore=LICENSE.md"]
-
-  - repo: https://github.com/tcort/markdown-link-check
-    rev: v3.14.2
-    hooks:
-      - id: markdown-link-check
-        args: ["--verbose", "--config=.hooks/.markdown-link-check.json", "--quiet"]

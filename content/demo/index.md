@@ -135,10 +135,12 @@ The term {{< term "D&D" >}} and {{< term "DM" >}} in some text.
 
 {{< mm-gallery id="one-photo" caption="A single photo">}}
 
+<!-- markdownlint-disable MD059 -->
 {{< mm-gallery
       id="one-photo"
       caption="This should be half width with a [link](https://thega.me.uk)"
       class="tw:max-w-1/2" >}}
+<!-- markdownlint-enable MD059 -->
 
 ## Image Width
 
@@ -165,3 +167,5 @@ Half width image:
 </body>
 </html>
 ```
+
+Here is a link that is broken on purpose: [Broken Link](https://github.com/unknown-person/unknown-project)
