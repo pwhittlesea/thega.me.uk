@@ -9,9 +9,11 @@ on:
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
     - uses: actions/checkout@v4
-    - uses: tcort/github-action-markdown-link-check@v1
+    - uses: tcort/github-action-markdown-link-check@v1.1.2
       with:
         config-file: .hooks/.markdown-link-check.json
         use-verbose-mode: true
