@@ -116,6 +116,7 @@ params:
     showTaxonomies: true
     showWordCount: false
     showZenMode: true
+    externalLinkForceNewTab: false
 
   list:
     showSummary: true
