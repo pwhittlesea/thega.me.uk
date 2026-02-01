@@ -16,6 +16,8 @@ SKIP_PATHS=(
   "content/posts/2025-06-15-long-live-the-lakehouse/iceberg-metadata.png"
   "content/posts/2025-12-05-building-a-sleigh/full-size-santa-sleigh-cnc-vector-files-17.jpeg"
   "content/posts/2026-01-03-split-fiction/featured.jpg"
+  "content/posts/2026-02-01-one-too-many-series/featured.jpg"
+  "content/posts/2026-02-01-one-too-many-series/believe.png"
 )
 
 for file in $@
