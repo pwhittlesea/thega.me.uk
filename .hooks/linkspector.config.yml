@@ -12,6 +12,9 @@ ignorePatterns:
   - pattern: '^https://www.longleat.co.uk/safari$'
   - pattern: '^https://news.ycombinator.com/.*$'
   - pattern: '^https://app.thestorygraph.com/.*$'
+
+  # The following is an example URL I don't want to check
+  - pattern: "^https://github.com/.../v1_to_v2.md$"
 aliveStatusCodes:
   - 200
   - 201
