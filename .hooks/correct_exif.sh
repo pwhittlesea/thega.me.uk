@@ -18,6 +18,7 @@ SKIP_PATHS=(
   "content/posts/2026-01-03-split-fiction/featured.jpg"
   "content/posts/2026-02-01-one-too-many-series/featured.jpg"
   "content/posts/2026-02-01-one-too-many-series/believe.png"
+  "content/posts/2026-03-05-multi-lock-access/featured.jpg"
 )
 
 for file in $@
