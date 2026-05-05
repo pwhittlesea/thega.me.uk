@@ -1,0 +1,271 @@
+{{- $tick := resources.Get "icons/check.svg" -}}
+{{- $cross := resources.Get "icons/xmark.svg" -}}
+{{- $content := .Inner -}}
+
+<div class="tw:sm:hidden">
+    {{ $content | markdownify }}
+</div>
+
+<div class="tw:grid tw:gap-y-4">
+    <div class="tw:relative tw:overflow-auto tw:hidden tw:sm:block">
+        <div class="tw:grid tw:grid-cols-5 tw:gap-x-4 tw:text-xs tw:text-black tw:text-center tw:*:justify-center tw:*:flex tw:*:items-center tw:*:border-x-1 tw:*:border-b-1 tw:*:border-slate-700">
+            <div class="tw:col-span-2 tw:p-4 tw:rounded-t-2xl tw:bg-slate-500 tw:font-bold tw:text-white tw:text-sm tw:border-t-1">Feature</div>
+            <div class="tw:p-4 tw:rounded-t-2xl tw:bg-orange-500 tw:font-bold tw:text-white tw:text-sm tw:border-t-1">Alpha</div>
+            <div class="tw:p-4 tw:rounded-t-2xl tw:bg-amber-500 tw:font-bold tw:text-white tw:text-sm tw:border-t-1">Beta</div>
+            <div class="tw:p-4 tw:rounded-t-2xl tw:bg-emerald-500 tw:font-bold tw:text-white tw:text-sm tw:border-t-1">Stable</div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Accessible / Running</b><br/>Is the feature accessible to a customer?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>System Tests</b><br/>Ensure the system display the behaviour of the feature?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-red-500 tw:*:h-6 tw:*:inline">{{- $cross.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>Basic Happy Case</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Documentation</b><br/>Does the user documentation allow users to understand the API?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-red-500 tw:*:h-6 tw:*:inline">{{- $cross.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Monitoring</b><br/>Can the on-call team tell if the system is running as expected?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-red-500 tw:*:h-6 tw:*:inline">{{- $cross.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Locked Behaviour</b><br/>Can we guarantee behaviour to the end user? Will it change?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>Major</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>Minor</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>No Breaking Changes</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Unit / Integration Test Coverage</b><br/>What level of coverage is mandatory?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>0%</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>40%</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>85%</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Refactoring</b><br/>Should we be refactoring code to make it cleaner as we go?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-red-500 tw:*:h-6 tw:*:inline">{{- $cross.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Expectation Management</b><br/>Are we going to manage the customers expectations downwards?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-red-500 tw:*:h-6 tw:*:inline">{{- $cross.Content | safeHTML -}}</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Data Quality</b><br/>Will we be monitoring/checking the data quality of the feature?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-red-500 tw:*:h-6 tw:*:inline">{{- $cross.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Altering</b><br/>Will an on-call operative be woken up if this feature breaks?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-red-500 tw:*:h-6 tw:*:inline">{{- $cross.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>Slack In-Hours</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>Meets system SLAs</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Code Quality</b><br/>Will automated code quality checks be satisfied?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-red-500 tw:*:h-6 tw:*:inline">{{- $cross.Content | safeHTML -}}</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>Some justified suppressions</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span class="tw:text-green-500 tw:*:h-6 tw:*:inline">{{- $tick.Content | safeHTML -}}</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:bg-white">
+                <span><b>Requirement Scope</b><br/>What (non)functional areas will the requirements cover?</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>Happy Case</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>Happy Case + Failure Case</span>
+            </div>
+            <div class="tw:p-1 tw:bg-white">
+                <span>Happy Case + Failure Case + Non-functionals</span>
+            </div>
+
+            <!-- ROW -->
+            <div class="tw:col-span-2 tw:p-1 tw:rounded-b-2xl tw:bg-white">
+                <span><b>Merge Requests / Reviews</b><br/>What will be covered in development reviews?</span>
+            </div>
+            <div class="tw:p-1 tw:rounded-b-2xl tw:bg-white">
+                <span>Will the application disrupt stable apps?<br/>Will it fulfil the requirements?</span>
+            </div>
+            <div class="tw:p-1 tw:rounded-b-2xl tw:bg-white">
+                <span>As <b>alpha</b> plus:<br/>Code conformance</span>
+            </div>
+            <div class="tw:p-1 tw:rounded-b-2xl tw:bg-white">
+                <span>As <b>beta</b> plus:<br/>Test quality + Design + Architecture</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="tw:relative tw:overflow-auto tw:hidden tw:sm:block">
+        <div class="tw:grid tw:gap-x-4 tw:grid-cols-6 tw:*:col-span-2 tw:*:p-2 tw:justify-center tw:text-xs tw:text-black tw:*:border-x-1 tw:*:border-slate-700">
+            <div class="tw:rounded-t-2xl tw:bg-orange-500 tw:font-bold tw:text-white tw:text-center tw:text-sm tw:border-y-1">Why write Alpha software?</div>
+            <div class="tw:rounded-t-2xl tw:bg-amber-500 tw:font-bold tw:text-white tw:text-center tw:text-sm tw:border-y-1">Why write Beta software?</div>
+            <div class="tw:rounded-t-2xl tw:bg-emerald-500 tw:font-bold tw:text-white tw:text-center tw:text-sm tw:border-y-1">Why write Stable software?</div>
+            <div class="tw:bg-white tw:text-right">
+                <span>
+                    <b>Product Owner</b><br/>
+                    <i>I WANT</i> the possibly-flaky feature to be developed quickly and cheaply<br/>
+                    <i>SO THAT</i> I can gauge interest in a feature and see if it will encourage sales.
+                </span>
+            </div>
+            <div class="tw:bg-white tw:text-right">
+                <span>
+                    <b>Product Owner</b><br/>
+                    <i>I WANT</i> the beta feature to be of reasonable quality<br/>
+                    <i>SO THAT</i> I can work with a customer to develop the feature into something reusable and stable.
+                </span>
+            </div>
+            <div class="tw:bg-white tw:text-right">
+                <span>
+                    <b>Product Owner</b><br/>
+                    <i>I WANT</i> the stable feature to be of good quality and reliability<br/>
+                    <i>SO THAT</i> I can sell the existing feature to new customers and promise them good SLAs that they will pay £££ for.
+                </span>
+            </div>
+            <div class="tw:bg-white tw:text-left">
+                <span>
+                    <b>Developer</b><br/>
+                    <i>I WANT</i> the customer's expectations to be managed and no SLAs to be required<br/>
+                    <i>SO THAT</i> the business doesn't make SLA commitments for quick proofs of concept.
+                </span>
+            </div>
+            <div class="tw:bg-white tw:text-left">
+                <span>
+                    <b>Developer</b><br/>
+                    <i>I WANT</i> a reasonable level of testing<br/>
+                    <i>SO THAT</i> the beta feature can be iterated on easily with a reasonable degree of confidence.
+                </span>
+            </div>
+            <div class="tw:bg-white tw:text-left">
+                <span>
+                    <b>Developer</b><br/>
+                    <i>I WANT</i> full system tests<br/>
+                    <i>SO THAT</i> the stable feature can be maintained without causing regressions.
+                </span>
+            </div>
+            <div class="tw:bg-white tw:text-right tw:rounded-b-2xl tw:border-b-1">
+                <span>
+                    <b>Support Team</b><br/>
+                    <i>I WANT</i> no alerts to go off if the possibly-flaky feature breaks<br/>
+                    <i>SO THAT</i> I'm not being woken up at 2AM for no reason.
+                </span>
+            </div>
+            <div class="tw:bg-white tw:text-right tw:rounded-b-2xl tw:border-b-1">
+                <span>
+                    <b>Support Team</b><br/>
+                    <i>I WANT</i> a reasonable level of monitoring (and possible in-hours-only alerting)<br/>
+                    <i>SO THAT</i> I can gain confidence that the beta feature will not cause lots of incident when it goes stable.
+                </span>
+            </div>
+            <div class="tw:bg-white tw:text-right tw:rounded-b-2xl tw:border-b-1">
+                <span>
+                    <b>Support Team</b><br/>
+                    <i>I WANT</i> good monitoring, alerting, runbooks and outage drills<br/>
+                    <i>SO THAT</i> I only get called out to deal with actually SLA-impacting incidents and when I do, I can actually fix them.
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
