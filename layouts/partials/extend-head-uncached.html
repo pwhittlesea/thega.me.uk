@@ -1,0 +1,3 @@
+{{- if and .Page.Params.wide (not .Page.Params.showTableOfContents) }}
+    <style>.max-w-prose { max-width: 100ch !important; }</style>
+{{- end }}
