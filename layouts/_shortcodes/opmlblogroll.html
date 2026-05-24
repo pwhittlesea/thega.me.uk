@@ -1,0 +1,39 @@
+{{ $data := dict }}
+{{ $path := "data/blogroll.xml" }}
+{{ with resources.Get $path }}
+  {{ with . | transform.Unmarshal }}
+    {{ $data = . }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get global resource %q" $path }}
+{{ end }}
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Name</th>
+      <th>RSS</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $data.body.outline }}
+      {{- $title := index . "-text" }}
+      {{- $outlines := slice }}
+      {{- if reflect.IsMap (index . "outline") }}
+        {{- $outlines = $outlines | append (index . "outline") }}
+      {{- else }}
+        {{- $outlines = index . "outline" }}
+      {{- end }}
+      {{ range $outlines }}
+        <tr>
+          <td>{{ $title }}</td>
+          <td><a href='{{ index . "-htmlUrl" }}'>{{ index . "-text" }}</a></td>
+          <td><a href='{{ index . "-xmlUrl" }}'>RSS</a></td>
+          <td>{{ index . "-description" }}</td>
+        </tr>
+      {{ end }}
+    {{ end }}
+  </tbody>
+</table>

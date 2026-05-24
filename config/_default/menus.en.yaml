@@ -11,8 +11,8 @@ main:
 - name: "Fiction"
   pageRef: "fiction"
   weight: 40
-- name: "Links"
-  pageRef: "links"
+- name: "Blogroll"
+  pageRef: "blogroll"
   weight: 50
 
 footer:

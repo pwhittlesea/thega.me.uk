@@ -85,6 +85,7 @@ params:
     bio: *headline
     links:
       - email: "mailto:pw.github@thega.me.uk"
+      - rss: "https://thega.me.uk/feed.xml"
       - bluesky: "https://bsky.app/profile/thega.me.uk"
       - github: "https://github.com/pwhittlesea"
       - linkedin: "https://www.linkedin.com/in/phillipwhittlesea/"

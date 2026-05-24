@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>thega.me.uk</title>
+    <dateCreated>Wed, 06 May 2026 12:54:07 +0100</dateCreated>
+  </head>
+  <body>
+    <outline text="Books">
+      <outline text="Good e-Reader" type="rss" xmlUrl="https://goodereader.com/blog/feed" htmlUrl="https://goodereader.com/blog" description="The latest news on audiobooks, e-books, e-readers, tablets, and reviews."/>
+      <outline text="News - Becky Chambers" type="rss" xmlUrl="https://www.otherscribbles.com/news?format=rss" htmlUrl="https://www.otherscribbles.com/news/"/>
+      <outline text="Whatever" type="rss" xmlUrl="https://whatever.scalzi.com/feed/" htmlUrl="https://whatever.scalzi.com/" description="DIGITAL CONTENT FROM ANALOG PEOPLE"/>
+    </outline>
+    <outline text="Comics">
+      <outline text="QC RSS" type="rss" xmlUrl="https://www.questionablecontent.net/QCRSS.xml" htmlUrl="http://www.questionablecontent.net/" description="The Official QC RSS Feed"/>
+      <outline text="Safely Endangered" type="rss" xmlUrl="https://safelyendangered.com/blogs/comics.atom" htmlUrl="https://safelyendangered.com/blogs/comics"/>
+      <outline text="The Perry Bible Fellowship" type="rss" xmlUrl="https://pbfcomics.com/feed/" htmlUrl="https://pbfcomics.com/" description="Offbeat comic strip by Nicholas Gurewitch."/>
+      <outline text="xkcd.com" type="rss" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/" description="xkcd.com: A webcomic of romance and math humor."/>
+    </outline>
+    <outline text="Personal">
+      <outline text="Cablespaghetti" type="rss" xmlUrl="https://cablespaghetti.dev/index.rss" htmlUrl="https://cablespaghetti.dev/index.rss" description="A random collection of thoughts, information and revelations which I saw fit to share with the world."/>
+      <outline text="Ky Decker" type="rss" xmlUrl="https://ky.fyi/rss.xml" htmlUrl="https://ky.fyi/" description="Dispatches from the world wide web."/>
+      <outline text="Mendhak / Code" type="rss" xmlUrl="https://code.mendhak.com/feed.xml" htmlUrl="https://code.mendhak.com/" description="Articles, information, and tutorials on development, programming, technology, science."/>
+      <outline text="OnlyRSS" type="rss" xmlUrl="https://onlyrss.org/feed.xml" htmlUrl="https://onlyrss.org/" description="Personal blog of Mark Evans"/>
+      <outline text="thega.me.uk" type="rss" xmlUrl="https://thega.me.uk/feed.xml" htmlUrl="https://thega.me.uk/" description="Personal blog of Phillip Whittlesea-Clark"/>
+    </outline>
+    <outline text="Politics">
+      <outline text="Funding the Future" type="rss" xmlUrl="https://www.taxresearch.org.uk/Blog/feed/" htmlUrl="https://www.taxresearch.org.uk/Blog" description="Richard Murphy on developing a fairer and sustainable economy"/>
+      <outline text="UK Government Comms" type="rss" xmlUrl="https://www.gov.uk/search/news-and-communications.atom" htmlUrl="https://www.gov.uk/"/>
+    </outline>
+    <outline text="Technology">
+      <outline text="Blog on Tailscale" type="rss" xmlUrl="https://tailscale.com/blog/index.xml" htmlUrl="https://tailscale.com/blog/" description="Recent blog posts from Tailscale"/>
+      <outline text="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/" description="Links for the intellectually curious, ranked by readers."/>
+      <outline text="Have I Been Pwned" type="rss" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/" description="The latest publicly leaked data breaches to hit Have I Been Pwned"/>
+      <outline text="Homekit News and Reviews" type="rss" xmlUrl="https://homekitnews.com/feed/" htmlUrl="https://homekitnews.com/" description="all things HomeKit, Matter, and connected tech in one site."/>
+      <outline text="MacRumors" type="rss" xmlUrl="https://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com/" description="Apple, iPhone, iPad, Mac News and Rumors"/>
+      <outline text="Signal Blog" type="rss" xmlUrl="https://signal.org/blog/rss.xml" htmlUrl="https://signal.org/blog/" description="Signal Blog"/>
+      <outline text="The Proton Blog" type="rss" xmlUrl="https://proton.me/blog/feed" htmlUrl="https://proton.me/" description="News from the front lines of privacy and security"/>
+    </outline>
+    <outline text="Transport">
+      <outline text="Everyday Astronaut" type="rss" xmlUrl="https://everydayastronaut.com/feed/" htmlUrl="https://everydayastronaut.com/"/>
+      <outline text="Human Transit" type="rss" xmlUrl="https://humantransit.org/feed" htmlUrl="https://humantransit.org/" description="The professional blog of public transit consultant Jarrett Walker."/>
+    </outline>
+    <outline text="Uncategorized"/>
+  </body>
+</opml>
