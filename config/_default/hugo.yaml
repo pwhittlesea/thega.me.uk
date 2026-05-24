@@ -2,7 +2,7 @@
 # https://gohugo.io/configuration/all/
 title: "thega.me.uk"
 baseURL: "https://thega.me.uk"
-languageCode: "en-GB"
+locale: "en-GB"
 enableGitInfo: true
 enableEmoji: true
 
