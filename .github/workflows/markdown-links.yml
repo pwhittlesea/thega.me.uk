@@ -20,4 +20,3 @@ jobs:
         reporter: github-pr-review
         fail_level: any
         config_file: .hooks/linkspector.config.yml
-        filter_mode: nofilter
