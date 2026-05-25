@@ -1,11 +1,9 @@
 {{ $data := dict }}
-{{ $path := "data/blogroll.xml" }}
-{{ with resources.Get $path }}
-  {{ with . | transform.Unmarshal }}
-    {{ $data = . }}
-  {{ end }}
+{{ $path := "blogroll.xml" }}
+{{- with $.Page.Resources.GetMatch $path | transform.Unmarshal }}
+  {{ $data = . }}
 {{ else }}
-  {{ errorf "Unable to get global resource %q" $path }}
+  {{ errorf "Unable to get local resource %q" $path }}
 {{ end }}
 
 <table>
