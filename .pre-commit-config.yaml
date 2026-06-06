@@ -13,7 +13,7 @@ repos:
       description: Generate all the maps used in posts
       entry: python3 .hooks/generate_maps.py
       language: python
-      additional_dependencies: ["py-staticmaps", "python-frontmatter"]
+      additional_dependencies: ["py-staticmaps==0.5.0", "python-frontmatter"]
       types: [markdown]
     - id: trufflehog
       name: TruffleHog

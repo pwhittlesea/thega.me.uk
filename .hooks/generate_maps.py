@@ -4,7 +4,6 @@ import argparse
 import re
 import s2sphere
 import staticmaps
-import PIL.ImageDraw
 import frontmatter
 
 POST_PATH = "./content/posts"
@@ -19,15 +18,11 @@ red = staticmaps.parse_color("#EE6677")
 blue = staticmaps.parse_color("#4477AA")
 
 
-# Patch for https://github.com/flopp/py-staticmaps/issues/39
-# BEGIN
-def textsize(self: PIL.ImageDraw.ImageDraw, *args, **kwargs):
-    x, y, w, h = self.textbbox((0, 0), *args, **kwargs)
-    return w, h
-
-
-PIL.ImageDraw.ImageDraw.textsize = textsize
-# END
+tile_provider_OSM = staticmaps.TileProvider(
+    "osm",
+    url_pattern="https://tile.openstreetmap.org/$z/$x/$y.png",
+    max_zoom=19,
+)
 
 
 class TextLabel(staticmaps.Object):
@@ -98,6 +93,7 @@ def process_file(file_path: str):
 
 def process_map(directory: str, post_map: dict):
     context = staticmaps.Context()
+    context.set_tile_provider(tile_provider_OSM)
 
     points = []
     labels = []
