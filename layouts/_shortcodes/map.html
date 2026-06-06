@@ -1,6 +1,7 @@
 {{- $arg_name := (.Get "name") -}}
 {{- $arg_waypoints := (.Get "waypoints") -}}
 {{- $arg_caption := (.Get "caption") -}}
+{{- $arg_google := (.Get "google") -}}
 {{- $map_points := slice -}}
 {{- with $.Page.Params.Maps -}}
     {{- range . -}}
@@ -40,9 +41,16 @@
     {{- if ne $arg_caption "" -}}
         {{- $caption = $arg_caption -}}
     {{- end -}}
-    <figure>
+    {{- if ne $arg_google "false" -}}
+        {{- $caption = printf "%s ([Open in Google Maps](%s))" $caption $google_url -}}
+    {{- end -}}
+    <figure class="text-center">
         <img class="my-0 rounded-md nozoom" src="{{- $arg_name -}}.svg" alt="{{ $caption }}" />
-        <figcaption>{{ printf "%s ([Open in Google Maps](%s))" $caption $google_url | markdownify }}</figcaption>
+        <figcaption>
+            {{ $caption | markdownify }}
+            <br>
+            <small>(Maps & Data &copy; OpenStreetMap.org contributors)</small>
+        </figcaption>
     </figure>
 
 {{- end -}}
