@@ -40,7 +40,7 @@ jobs:
       - name: Build the site
         run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
           # Allow the artifact to be used by the compare job for 90 days
