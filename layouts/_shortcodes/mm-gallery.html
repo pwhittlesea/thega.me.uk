@@ -2,12 +2,18 @@
 {{ $gallery := index .Page.Params (.Get "id") }}
 
 {{/* Determine gallery layout */}}
-{{ $gallery_layout := "tw:grid-cols-1" }}
-{{ if eq (mod (len $gallery) 3) 0 }}
-  {{ $gallery_layout = "tw:grid-cols-3" }}
-{{ else if eq (mod (len $gallery) 2) 0 }}
-  {{ $gallery_layout = "tw:grid-cols-2" }}
-{{ end }}
+{{- $gallery_layout := "" -}}
+{{- $arg_layout := (.Get "forced_layout") -}}
+{{- if ne $arg_layout "" -}}
+  {{- $gallery_layout = $arg_layout -}}
+{{- else -}}
+  {{- $gallery_layout = "tw:grid-cols-1" }}
+  {{- if eq (mod (len $gallery) 3) 0 }}
+    {{- $gallery_layout = "tw:grid-cols-3" }}
+  {{- else if eq (mod (len $gallery) 2) 0 }}
+    {{- $gallery_layout = "tw:grid-cols-2" }}
+  {{- end }}
+{{- end -}}
 
 <figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
   <span class="not-prose tw:grid {{ $gallery_layout }} tw:gap-1">

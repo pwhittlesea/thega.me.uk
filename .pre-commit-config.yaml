@@ -15,6 +15,14 @@ repos:
       language: python
       additional_dependencies: ["py-staticmaps==0.5.0", "python-frontmatter"]
       types: [markdown]
+    - id: image-efficiency
+      name: Image Efficiency
+      description: Resize and convert images to webp
+      entry: python3 .hooks/image_efficiency.py
+      language: python
+      additional_dependencies: ["pillow"]
+      types: [image]
+      exclude_types: [svg,gif]
     - id: trufflehog
       name: TruffleHog
       description: Detect secrets in your data.
