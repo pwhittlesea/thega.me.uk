@@ -19,6 +19,8 @@ SKIP_PATHS=(
   "content/posts/2026-02-01-one-too-many-series/featured.jpg"
   "content/posts/2026-02-01-one-too-many-series/believe.png"
   "content/posts/2026-03-05-multi-lock-access/featured.jpg"
+  "content/posts/2026-06-19-touring-the-dmz/external_dora_observatory.webp"
+  "content/posts/2026-06-19-touring-the-dmz/external_third_tunnel_entrance.webp"
 )
 
 for file in $@
