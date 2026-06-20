@@ -432,7 +432,7 @@ We had heard that it wasn't just Olive Young having a Pokémon event; there was 
 We hadn't the faintest idea what it was, or how big it was, but it sounded like an interesting way to spend the afternoon.
 So we jumped back in the tube and headed toward it.
 
-> [!TIP] Travel Tip 3
+> [!TIP] Travel Tip 4
 > **We were told**: Google Maps doesn't work, you need to use [Naver Maps](https://map.naver.com/).  
 > **Rating**: Verified
 >
@@ -490,7 +490,7 @@ I shouldn't complain however, as each side dish complimented the grilled meat (w
 As we had no idea what we were doing, the staff cut and cooked the meat on the grill for us.
 Other tables were doing it themselves, but I didn't take it as a slight that they assumed we would give ourselves food poisoning.
 
-> [!TIP] Travel Tip 4
+> [!TIP] Travel Tip 5
 > **We were told**: Tipping isn't a thing in Korea.  
 > **Rating**: Partially Verified
 >
