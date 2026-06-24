@@ -8,6 +8,6 @@
   {{- end }}
 {{- end }}
 {{- if eq $title "" }}
-  {{- warnf "[abbr] missing title for %q" $text }}
+  {{- errorf "[abbr] missing abbreviation %q" $text }}
 {{- end }}
 <abbr title="{{ $title }}">{{- $text -}}</abbr>
