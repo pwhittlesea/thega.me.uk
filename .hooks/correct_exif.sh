@@ -21,6 +21,9 @@ SKIP_PATHS=(
   "content/posts/2026-03-05-multi-lock-access/featured.jpg"
   "content/posts/2026-06-19-touring-the-dmz/external_dora_observatory.webp"
   "content/posts/2026-06-19-touring-the-dmz/external_third_tunnel_entrance.webp"
+  "content/posts/2026-07-08-a-train-to-busan/external_here_we_go_again.webp"
+  "content/posts/2026-07-08-a-train-to-busan/external_recycling_spain.webp"
+  "content/posts/2026-07-08-a-train-to-busan/external_train_to_busan.webp"
 )
 
 for file in $@
