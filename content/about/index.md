@@ -6,29 +6,29 @@ showWordCount: false
 showReadingTime: false
 summary: "A brief overview of who I am and what I get up to"
 
-animals:
-  - image_path: IMG_1817.JPG
-    title: Maurice
-  - image_path: IMG_1819.JPG
-    title: Mort
-  - image_path: IMG_1823.JPG
-    title: Mally
-  - image_path: IMG_1825.JPG
-    title: Ada
-  - image_path: IMG_1824.JPG
-    title: Cara
-  - image_path: IMG_1830.JPG
-    title: Fluffy
-
-christmas:
-  - image_path: images/christmas/christmas_2022.jpg
-    title: My House December 1st 2022
-  - image_path: images/christmas/christmas_2023.jpg
-    title: My House December 1st 2023
-  - image_path: images/christmas/christmas_2024.jpg
-    title: My House December 1st 2024
-  - image_path: images/christmas/christmas_2025.jpg
-    title: My House December 1st 2025
+galleries:
+  animals:
+    - image_path: IMG_1817.JPG
+      title: Maurice
+    - image_path: IMG_1819.JPG
+      title: Mort
+    - image_path: IMG_1823.JPG
+      title: Mally
+    - image_path: IMG_1825.JPG
+      title: Ada
+    - image_path: IMG_1824.JPG
+      title: Cara
+    - image_path: IMG_1830.JPG
+      title: Fluffy
+  christmas:
+    - image_path: images/christmas/christmas_2022.jpg
+      title: My House December 1st 2022
+    - image_path: images/christmas/christmas_2023.jpg
+      title: My House December 1st 2023
+    - image_path: images/christmas/christmas_2024.jpg
+      title: My House December 1st 2024
+    - image_path: images/christmas/christmas_2025.jpg
+      title: My House December 1st 2025
 ---
 
 I am currently living in Southampton with my partner (whom I dote on), my 4 cats (whom I tolerate) and 2 dogs (whom I fuss over).

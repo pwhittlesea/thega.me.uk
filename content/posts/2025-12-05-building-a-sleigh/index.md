@@ -3,101 +3,87 @@ title: Building a Sleigh
 date: 2025-12-05 17:26:25 +0000
 tags: [DIY, Christmas]
 
-christmas-house:
-  - image_path: images/christmas/christmas_2022.jpg
-    title: My House December 1st 2022
-  - image_path: images/christmas/christmas_2023.jpg
-    title: My House December 1st 2023
-  - image_path: images/christmas/christmas_2024.jpg
-    title: My House December 1st 2024
-
-sleigh:
-  - image_path: ukchristmasworld_sleigh.png
-    title: "A pre-made Sleigh Costing £2,739"
-
-tracing:
-  - image_path: IMG_7349.jpeg
-    title: "Tracing the shadow of the sleigh onto the plywood"
-  - image_path: IMG_7350.jpeg
-    title: "The convoluted setup to cast a shadow of the sleigh onto the plywood"
-
-tracing_complete:
-  - image_path: IMG_2156.jpeg
-    title: "The completed tracing of the sleigh onto the plywood"
-
-cutting-first:
-  - image_path: IMG_2161.jpeg
-    title: "Cutting the first piece of plywood"
-  - image_path: IMG_7412.jpeg
-    title: "Cutting the table underneath the plywood"
-
-cutting-template:
-  - image_path: IMG_2165.jpeg
-    title: "Using the first cut as a template"
-
-the-trim:
-  - image_path: IMG_2172.jpeg
-    title: "The first trim piece being glued in place"
-
-cutting-interior:
-  - image_path: IMG_2173.jpeg
-    title: "All of the parts, finally cut"
-
-the-blocks:
-  - image_path: IMG_2176.jpeg
-    title: "The blocks used to connect the sides to the interior"
-  - image_path: IMG_2192.jpeg
-    title: "The inside of the seat"
-
-painting-primer:
-  - image_path: IMG_2177.jpeg
-    title: "The second coat of undercoat"
-  - image_path: IMG_2179.jpeg
-    title: "The third coat of undercoat"
-
-painting-gold:
-  - image_path: IMG_2187.jpeg
-    title: "Painting the trim and skis 'gold'"
-  - image_path: IMG_2189.jpeg
-    title: "First coat of yellow paint on the skis"
-  - image_path: IMG_2195.jpeg
-    title: "Painting the skis glitter gold"
-  - image_path: IMG_2199.jpeg
-    title: "The finished gold trim and skis"
-
-painting-red:
-  - image_path: IMG_2200.jpeg
-    title: "Painting the back panel of the sleigh red"
-  - image_path: IMG_2206.jpeg
-    title: "Painting the inside of the side panel red"
-  - image_path: IMG_2204.jpeg
-    title: "The first coat of red on the side panel"
-
-construction:
-  - image_path: IMG_2207.jpeg
-    title: "The bottom panel being attached"
-  - image_path: IMG_7485.jpeg
-    title: "The fully assembled sleigh"
-
-the-final-touches:
-  - image_path: IMG_2209.jpeg
-    title: "Stapling the fairy lights in place"
-  - image_path: featured.jpeg
-    title: "The finished sleigh with lights"
-
-the-result:
-  - image_path: IMG_2211.jpeg
-    title: "Our house with Christmas decorations during the day"
-  - image_path: images/christmas/christmas_2025.jpg
-    title: "Our house with Christmas decorations at night"
-  - image_path: IMG_2212.jpeg
-    title: "Two fans coming to see the lights at night"
-
-comparison:
-  - image_path: full-size-santa-sleigh-cnc-vector-files-17.jpeg
-    title: "Source https://jayscustomcreations.com/2020/12/full-size-santa-sleigh-free-files/"
-  - image_path: IMG_7485.jpeg
-    title: "Our finished sleigh"
+galleries:
+  christmas-house:
+    - image_path: images/christmas/christmas_2022.jpg
+      title: My House December 1st 2022
+    - image_path: images/christmas/christmas_2023.jpg
+      title: My House December 1st 2023
+    - image_path: images/christmas/christmas_2024.jpg
+      title: My House December 1st 2024
+  sleigh:
+    - image_path: ukchristmasworld_sleigh.png
+      title: "A pre-made Sleigh Costing £2,739"
+  tracing:
+    - image_path: IMG_7349.jpeg
+      title: "Tracing the shadow of the sleigh onto the plywood"
+    - image_path: IMG_7350.jpeg
+      title: "The convoluted setup to cast a shadow of the sleigh onto the plywood"
+  tracing_complete:
+    - image_path: IMG_2156.jpeg
+      title: "The completed tracing of the sleigh onto the plywood"
+  cutting-first:
+    - image_path: IMG_2161.jpeg
+      title: "Cutting the first piece of plywood"
+    - image_path: IMG_7412.jpeg
+      title: "Cutting the table underneath the plywood"
+  cutting-template:
+    - image_path: IMG_2165.jpeg
+      title: "Using the first cut as a template"
+  the-trim:
+    - image_path: IMG_2172.jpeg
+      title: "The first trim piece being glued in place"
+  cutting-interior:
+    - image_path: IMG_2173.jpeg
+      title: "All of the parts, finally cut"
+  the-blocks:
+    - image_path: IMG_2176.jpeg
+      title: "The blocks used to connect the sides to the interior"
+    - image_path: IMG_2192.jpeg
+      title: "The inside of the seat"
+  painting-primer:
+    - image_path: IMG_2177.jpeg
+      title: "The second coat of undercoat"
+    - image_path: IMG_2179.jpeg
+      title: "The third coat of undercoat"
+  painting-gold:
+    - image_path: IMG_2187.jpeg
+      title: "Painting the trim and skis 'gold'"
+    - image_path: IMG_2189.jpeg
+      title: "First coat of yellow paint on the skis"
+    - image_path: IMG_2195.jpeg
+      title: "Painting the skis glitter gold"
+    - image_path: IMG_2199.jpeg
+      title: "The finished gold trim and skis"
+  painting-red:
+    - image_path: IMG_2200.jpeg
+      title: "Painting the back panel of the sleigh red"
+    - image_path: IMG_2206.jpeg
+      title: "Painting the inside of the side panel red"
+    - image_path: IMG_2204.jpeg
+      title: "The first coat of red on the side panel"
+  construction:
+    - image_path: IMG_2207.jpeg
+      title: "The bottom panel being attached"
+    - image_path: IMG_7485.jpeg
+      title: "The fully assembled sleigh"
+  the-final-touches:
+    - image_path: IMG_2209.jpeg
+      title: "Stapling the fairy lights in place"
+    - image_path: featured.jpeg
+      title: "The finished sleigh with lights"
+  the-result:
+    - image_path: IMG_2211.jpeg
+      title: "Our house with Christmas decorations during the day"
+    - image_path: images/christmas/christmas_2025.jpg
+      title: "Our house with Christmas decorations at night"
+    - image_path: IMG_2212.jpeg
+      title: "Two fans coming to see the lights at night"
+  comparison:
+    - image_path: full-size-santa-sleigh-cnc-vector-files-17.jpeg
+      title: "Source https://jayscustomcreations.com/2020/12/full-size-santa-sleigh-free-files/"
+    - image_path: IMG_7485.jpeg
+      title: "Our finished sleigh"
 ---
 
 For some insane reason, I decided to build a 'full size' Santa Sleigh for Christmas.

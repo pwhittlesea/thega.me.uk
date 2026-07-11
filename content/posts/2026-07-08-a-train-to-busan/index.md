@@ -48,109 +48,110 @@ maps:
         lat: 35.1601498896712
         lon: 129.1600650330206
 
-welcome_to_busan:
-  - image_path: south_korea_13_140841_001.webp
-    title: The welcome sign out the front of the Busan train station
-    alt: A long glass building with the text 'Busan Station' sits behind a small garden of flowers with a two meter tall 'Busan is good' sign
-  - image_path: featured.webp
-    title: Boogi, the Busan mascot
-    alt: A small garden of flowers with a large seagull and yin-yang made of flowers
-view_from_the_hotel:
-  - image_path: south_korea_2837.webp
-    title: The view from our hotel window
-    alt: A birds-eye view of a four lane road, a 'Seal Life' center, and a beach
-marinated_crab:
-  - image_path: south_korea_13_071627716.webp
-    title: Our marinated crab meal
-    alt: Multiple metal plates on a black table with various colourful foods on them
-nighttime_in_busan:
-  - image_path: south_korea_2851.webp
-    title: The Busan skyline at night
-    alt: A night time view of a city skyline with a beach
-  - image_path: south_korea_2852.webp
-    title: People waiting at a pedestrian crossing in Busan
-    alt: A wide pedestrian crossing with people waiting and tall buildings in the background
-haeundae_park:
-  - image_path: south_korea_14_102025355.webp
-    title: The adorable little trams on the Haeundae Blueline attraction
-    alt: Small multi-coloured cabs arrive at a station
-  - image_path: south_korea_2873.webp
-    title: A view from the Blueline
-    alt: A calm ocean on a sunny day. A boat travels across the water and a tree sits in the foreground
-  - image_path: south_korea_2864.webp
-    title: Two of the trams on the Haeundae Blueline
-    alt: A red and blue cab sit on elevated rails
-  - image_path: south_korea_14_110324.webp
-    title: A green tram on the Haeundae Blueline
-    alt: A green cab sits on elevated rails with forest either side
-cheongsapo:
-  - image_path: south_korea_2883.webp
-    title: The walkway over the ocean
-    alt: A blue metal walkway on posts sits above the ocean with people walking along it
-  - image_path: south_korea_2884.webp
-    title: A view from the walkway
-    alt: A rocky beach next to the ocean with several buildings along its edge
-  - image_path: south_korea_2897.webp
-    title: A view from the walkway
-    alt: A calm ocean next to a rocky beach with a city in the distance
-  - image_path: south_korea_2902.webp
-    title: No umbrellas allowed
-    alt: A blue metal walkway on posts sits above the ocean with people walking along it and a sign in the foreground says 'No umbrellas allowed'
-cheongsapo_lunch:
-  - image_path: south_korea_14_122417075.webp
-    title: Korean Seafood BBQ
-    alt: Clams being cooked over a grill in the middle of a table covered by plates
-gamcheon:
-  - image_path: south_korea_14_141147.webp
-    title: Some of the artwork in Gamcheon
-    alt: A hand painted wall depicting a kpop group and 'The Little Prince'
-  - image_path: south_korea_14_142916322.webp
-    title: A view out over Gamcheon
-    alt: A city filled with different coloured buildings sprawling up a hillside
-  - image_path: south_korea_14_143825100.webp
-    title: I <3 Gamcheon
-    alt: A sign saying 'I love Gamecheon' with two small dogs standing atop it
-  - image_path: south_korea_2920.webp
-    title: A view over the city towards the ocean
-    alt: A city filled with different coloured buildings sprawling up a hillside and down towards the ocean in the background
-lisboa_cafe:
-  - image_path: south_korea_14_145026.webp
-    title: Steps towards Lisboa Cafe
-    alt: Steps leading down to a narrow street with shops either side
-  - image_path: south_korea_14_162037.webp
-    title: Fun painted steps
-    alt: Stone steps painted blue with bubbles lead up to some stone houses
-  - image_path: south_korea_14_162538.webp
-    title: Cheers!
-    alt: A shark with a sailor had, a coconut with a straw, and a mustache, painted on the side of a shop while people browse products
-  - image_path: south_korea_2925.webp
-    title: The walk along the sea
-    alt: A wall next to the ocean covered in locks and small painted knick-knacks
-lisboa_view:
-  - image_path: south_korea_14_163256.webp
-    title: The sun shining over the ocean
-    alt: A wooden viewing platform with a glass wall looks out over the ocean with Busan in the background
-  - image_path: south_korea_2924.webp
-    title: Busan across the ocean
-    alt: A calm ocean with high rise buildings in the background
-oryukdo_skywalk:
-  - image_path: south_korea_2931.webp
-    title: Busan across the ocean from Oryukdo Skywalk
-    alt: A calm ocean with a city in the distance
-  - image_path: south_korea_2934.webp
-    title: The Oryukdo Islets
-    alt: Two rocky islands off the coast in a calm ocean
-  - image_path: south_korea_2935.webp
-    title: View west from the Oryukdo Skywalk
-    alt: An ocean with a city and mountains in the distance and a concrete dock with a boat docked at it in the foreground
-oryukdo_skywalk_closed:
-  - image_path: south_korea_2940.webp
-    title: The Oryukdo Skywalk was closed
-    alt: A metal barricade pulled across a path with multiple signs on it
-busan_night_market:
-  - image_path: south_korea_2942.webp
-    title: A Busan night market
-    alt: A narrow street adorned with string-lights, packed with people
+galleries:
+  welcome_to_busan:
+    - image_path: south_korea_13_140841_001.webp
+      title: The welcome sign out the front of the Busan train station
+      alt: A long glass building with the text 'Busan Station' sits behind a small garden of flowers with a two meter tall 'Busan is good' sign
+    - image_path: featured.webp
+      title: Boogi, the Busan mascot
+      alt: A small garden of flowers with a large seagull and yin-yang made of flowers
+  view_from_the_hotel:
+    - image_path: south_korea_2837.webp
+      title: The view from our hotel window
+      alt: A birds-eye view of a four lane road, a 'Seal Life' center, and a beach
+  marinated_crab:
+    - image_path: south_korea_13_071627716.webp
+      title: Our marinated crab meal
+      alt: Multiple metal plates on a black table with various colourful foods on them
+  nighttime_in_busan:
+    - image_path: south_korea_2851.webp
+      title: The Busan skyline at night
+      alt: A night time view of a city skyline with a beach
+    - image_path: south_korea_2852.webp
+      title: People waiting at a pedestrian crossing in Busan
+      alt: A wide pedestrian crossing with people waiting and tall buildings in the background
+  haeundae_park:
+    - image_path: south_korea_14_102025355.webp
+      title: The adorable little trams on the Haeundae Blueline attraction
+      alt: Small multi-coloured cabs arrive at a station
+    - image_path: south_korea_2873.webp
+      title: A view from the Blueline
+      alt: A calm ocean on a sunny day. A boat travels across the water and a tree sits in the foreground
+    - image_path: south_korea_2864.webp
+      title: Two of the trams on the Haeundae Blueline
+      alt: A red and blue cab sit on elevated rails
+    - image_path: south_korea_14_110324.webp
+      title: A green tram on the Haeundae Blueline
+      alt: A green cab sits on elevated rails with forest either side
+  cheongsapo:
+    - image_path: south_korea_2883.webp
+      title: The walkway over the ocean
+      alt: A blue metal walkway on posts sits above the ocean with people walking along it
+    - image_path: south_korea_2884.webp
+      title: A view from the walkway
+      alt: A rocky beach next to the ocean with several buildings along its edge
+    - image_path: south_korea_2897.webp
+      title: A view from the walkway
+      alt: A calm ocean next to a rocky beach with a city in the distance
+    - image_path: south_korea_2902.webp
+      title: No umbrellas allowed
+      alt: A blue metal walkway on posts sits above the ocean with people walking along it and a sign in the foreground says 'No umbrellas allowed'
+  cheongsapo_lunch:
+    - image_path: south_korea_14_122417075.webp
+      title: Korean Seafood BBQ
+      alt: Clams being cooked over a grill in the middle of a table covered by plates
+  gamcheon:
+    - image_path: south_korea_14_141147.webp
+      title: Some of the artwork in Gamcheon
+      alt: A hand painted wall depicting a kpop group and 'The Little Prince'
+    - image_path: south_korea_14_142916322.webp
+      title: A view out over Gamcheon
+      alt: A city filled with different coloured buildings sprawling up a hillside
+    - image_path: south_korea_14_143825100.webp
+      title: I <3 Gamcheon
+      alt: A sign saying 'I love Gamecheon' with two small dogs standing atop it
+    - image_path: south_korea_2920.webp
+      title: A view over the city towards the ocean
+      alt: A city filled with different coloured buildings sprawling up a hillside and down towards the ocean in the background
+  lisboa_cafe:
+    - image_path: south_korea_14_145026.webp
+      title: Steps towards Lisboa Cafe
+      alt: Steps leading down to a narrow street with shops either side
+    - image_path: south_korea_14_162037.webp
+      title: Fun painted steps
+      alt: Stone steps painted blue with bubbles lead up to some stone houses
+    - image_path: south_korea_14_162538.webp
+      title: Cheers!
+      alt: A shark with a sailor had, a coconut with a straw, and a mustache, painted on the side of a shop while people browse products
+    - image_path: south_korea_2925.webp
+      title: The walk along the sea
+      alt: A wall next to the ocean covered in locks and small painted knick-knacks
+  lisboa_view:
+    - image_path: south_korea_14_163256.webp
+      title: The sun shining over the ocean
+      alt: A wooden viewing platform with a glass wall looks out over the ocean with Busan in the background
+    - image_path: south_korea_2924.webp
+      title: Busan across the ocean
+      alt: A calm ocean with high rise buildings in the background
+  oryukdo_skywalk:
+    - image_path: south_korea_2931.webp
+      title: Busan across the ocean from Oryukdo Skywalk
+      alt: A calm ocean with a city in the distance
+    - image_path: south_korea_2934.webp
+      title: The Oryukdo Islets
+      alt: Two rocky islands off the coast in a calm ocean
+    - image_path: south_korea_2935.webp
+      title: View west from the Oryukdo Skywalk
+      alt: An ocean with a city and mountains in the distance and a concrete dock with a boat docked at it in the foreground
+  oryukdo_skywalk_closed:
+    - image_path: south_korea_2940.webp
+      title: The Oryukdo Skywalk was closed
+      alt: A metal barricade pulled across a path with multiple signs on it
+  busan_night_market:
+    - image_path: south_korea_2942.webp
+      title: A Busan night market
+      alt: A narrow street adorned with string-lights, packed with people
 ---
 
 > [!INFO] Want to know less?

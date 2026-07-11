@@ -48,70 +48,71 @@ maps:
         lat: 37.641084092163325
         lon: 126.93786084913923
 
-gyeongbokgung-hanbok:
-  - image_path: south_korea_8929.webp
-    title: Me looking thoughtful in some Hanbok
-    alt: A man in purple jeogori, white trousers and a black wide-brimmed hat, sits in a stone courtyard with a traditional Korean building in the background
-  - image_path: south_korea_2675.webp
-    title: My other half in Hanbok looking amazing
-    alt: A person in a pink Hanbok with a pink/purple dress walking towards a traditional Korean palace entrance
-gyeongbokgung-palace:
-  - image_path: south_korea_2682.webp
-    title: The courtyard inside the main entrance of Gyeongbokgung Palace
-    alt: A stone paved courtyard with a row of small trees in the middle and traditional Korean building in the background
-  - image_path: south_korea_2747.webp
-    title: Wooden buildings inside Gyeongbokgung Palace
-    alt: Wooden traditional Korean buildings with intricately painted eaves on stone platforms
-  - image_path: featured.webp
-    title: The Gyeonghoeru Pavilion surrounded by water
-    alt: A large open-sided traditional Korean building sits on a stone plinth in the middle of a lake. A bridge sits on its right joining it to land
-  - image_path: south_korea_2772.webp
-    title: The Hyangwonjeong Pavilion
-    alt: A traditional multi-storey Korean building sits in the middle of a lake flanked on both sides by trees
-myeongdong-market:
-  - image_path: south_korea_2807.webp
-    title: The night streets of Myeongdong Market
-    alt: A woman in a brown knee-length jacket walking down a busy street at night
-  - image_path: south_korea_11_213612.webp
-    title: A dumpling stall in Myeongdong Market
-    alt: A box of dumplings being held with the stall where a man sells dumpling in the background
-  - image_path: south_korea_11_214919.webp
-    title: A dried fruit stall in Myeongdong Market
-    alt: A woman stands a stall selling various colourful dried fruit wrapped in plastic
-  - image_path: south_korea_11_221216.webp
-    title: A flavoured bread bun stall in Myeongdong Market
-    alt: A stall with three trays of bread rolls with various toppings
-  - image_path: south_korea_2814.webp
-    title: A line of food stalls in Myeongdong Market
-    alt: Food stalls line the side of a street lined with occasional trees at night
-  - image_path: south_korea_2812.webp
-    title: A corn dog stall in Myeongdong Market
-    alt: A man stands at a stall selling corn dogs covered with various toppings
-eunpyeong-streets:
-  - image_path: south_korea_12_120040.webp
-    title: View from the streets of Eunpyeong
-    alt: A grey paved road on the left with a traditional two-storey hanok on the right with a patch of grass in front of it
-eunpyeong-village:
-  - image_path: south_korea_12_121317.webp
-    title: Looking lost while reading
-    alt: A man standing on a wooden deck stares at an informational sign in a park
-  - image_path: south_korea_12_122645.webp
-    title: Looking lost on stairs
-    alt: A man pauses with his hands behind his back while walking up stone stairs in a park
-jingwansa-temple:
-  - image_path: south_korea_12_132331.webp
-    title: A statue in the entrance of the temple grounds
-    alt: Stone steps leading up to a likeness of the Buddha carved into a rock with a small donation box to its left
-  - image_path: south_korea_12_132250.webp
-    title: The entrance to the temple grounds
-    alt: A two-pillared pavilion with a traditional Korean roof with colourfully painted eaves
-  - image_path: south_korea_12_133042.webp
-    title: Notes from previous visitors to the temple
-    alt: A ceiling covered in colourful paper lanterns with messages on heart shaped paper hanging from them
-1in-1sang:
-  - image_path: south_korea_2828.webp
-    title: The view out over the Eunpyeong Hanok Village
-    alt: Many traditional Korean houses with mountains in the background
+galleries:
+  gyeongbokgung-hanbok:
+    - image_path: south_korea_8929.webp
+      title: Me looking thoughtful in some Hanbok
+      alt: A man in purple jeogori, white trousers and a black wide-brimmed hat, sits in a stone courtyard with a traditional Korean building in the background
+    - image_path: south_korea_2675.webp
+      title: My other half in Hanbok looking amazing
+      alt: A person in a pink Hanbok with a pink/purple dress walking towards a traditional Korean palace entrance
+  gyeongbokgung-palace:
+    - image_path: south_korea_2682.webp
+      title: The courtyard inside the main entrance of Gyeongbokgung Palace
+      alt: A stone paved courtyard with a row of small trees in the middle and traditional Korean building in the background
+    - image_path: south_korea_2747.webp
+      title: Wooden buildings inside Gyeongbokgung Palace
+      alt: Wooden traditional Korean buildings with intricately painted eaves on stone platforms
+    - image_path: featured.webp
+      title: The Gyeonghoeru Pavilion surrounded by water
+      alt: A large open-sided traditional Korean building sits on a stone plinth in the middle of a lake. A bridge sits on its right joining it to land
+    - image_path: south_korea_2772.webp
+      title: The Hyangwonjeong Pavilion
+      alt: A traditional multi-storey Korean building sits in the middle of a lake flanked on both sides by trees
+  myeongdong-market:
+    - image_path: south_korea_2807.webp
+      title: The night streets of Myeongdong Market
+      alt: A woman in a brown knee-length jacket walking down a busy street at night
+    - image_path: south_korea_11_213612.webp
+      title: A dumpling stall in Myeongdong Market
+      alt: A box of dumplings being held with the stall where a man sells dumpling in the background
+    - image_path: south_korea_11_214919.webp
+      title: A dried fruit stall in Myeongdong Market
+      alt: A woman stands a stall selling various colourful dried fruit wrapped in plastic
+    - image_path: south_korea_11_221216.webp
+      title: A flavoured bread bun stall in Myeongdong Market
+      alt: A stall with three trays of bread rolls with various toppings
+    - image_path: south_korea_2814.webp
+      title: A line of food stalls in Myeongdong Market
+      alt: Food stalls line the side of a street lined with occasional trees at night
+    - image_path: south_korea_2812.webp
+      title: A corn dog stall in Myeongdong Market
+      alt: A man stands at a stall selling corn dogs covered with various toppings
+  eunpyeong-streets:
+    - image_path: south_korea_12_120040.webp
+      title: View from the streets of Eunpyeong
+      alt: A grey paved road on the left with a traditional two-storey hanok on the right with a patch of grass in front of it
+  eunpyeong-village:
+    - image_path: south_korea_12_121317.webp
+      title: Looking lost while reading
+      alt: A man standing on a wooden deck stares at an informational sign in a park
+    - image_path: south_korea_12_122645.webp
+      title: Looking lost on stairs
+      alt: A man pauses with his hands behind his back while walking up stone stairs in a park
+  jingwansa-temple:
+    - image_path: south_korea_12_132331.webp
+      title: A statue in the entrance of the temple grounds
+      alt: Stone steps leading up to a likeness of the Buddha carved into a rock with a small donation box to its left
+    - image_path: south_korea_12_132250.webp
+      title: The entrance to the temple grounds
+      alt: A two-pillared pavilion with a traditional Korean roof with colourfully painted eaves
+    - image_path: south_korea_12_133042.webp
+      title: Notes from previous visitors to the temple
+      alt: A ceiling covered in colourful paper lanterns with messages on heart shaped paper hanging from them
+  1in-1sang:
+    - image_path: south_korea_2828.webp
+      title: The view out over the Eunpyeong Hanok Village
+      alt: Many traditional Korean houses with mountains in the background
 ---
 
 > [!INFO] Want to know less?

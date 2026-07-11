@@ -25,19 +25,19 @@ maps:
         lat: -37.008056
         lon: 174.791667
 
-vineyards:
-  - image_path: new_zealand_0647.jpg
-    title: "The Waiheke Bay"
-  - image_path: new_zealand_0648.jpg
-    title: "More Waiheke Bay"
-  - image_path: new_zealand_0652.jpg
-    title: "The view out over Stonyridge Vineyard"
-
-zoo:
-  - image_path: new_zealand_0690.jpg
-    title: "The Nocturnal Kiwi"
-  - image_path: new_zealand_0705.jpg
-    title: "The Tasmanian Devil"
+galleries:
+  vineyards:
+    - image_path: new_zealand_0647.jpg
+      title: "The Waiheke Bay"
+    - image_path: new_zealand_0648.jpg
+      title: "More Waiheke Bay"
+    - image_path: new_zealand_0652.jpg
+      title: "The view out over Stonyridge Vineyard"
+  zoo:
+    - image_path: new_zealand_0690.jpg
+      title: "The Nocturnal Kiwi"
+    - image_path: new_zealand_0705.jpg
+      title: "The Tasmanian Devil"
 ---
 
 ## Short Notice

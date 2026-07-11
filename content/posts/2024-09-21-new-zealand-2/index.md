@@ -32,44 +32,40 @@ maps:
         lat: -38.106563710921314
         lon: 176.22083340538035
 
-
-luggage:
-  - image_path: new_zealand_0602.jpg
-    title: "Me, at Heathrow Airport, with all of our luggage"
-
-weta-unleashed:
-  - image_path: new_zealand_0743.jpg
-    title: "I'm dying inside because I wanted to go to the All Black Experience"
-  - image_path: new_zealand_0748.jpg
-    title: "It's a good job they turned to stone"
-  - image_path: new_zealand_0757.jpg
-    title: "A special entrance for a special tour"
-  - image_path: new_zealand_0764.jpg
-    title: "The health and safety officer helping us stay safe"
-  - image_path: new_zealand_0766.jpg
-    title: "Various models and prototypes"
-  - image_path: new_zealand_0774.jpg
-    title: "Need a hand?"
-  - image_path: new_zealand_0778.jpg
-    title: "A Wētā recreation that looks lifelike"
-  - image_path: new_zealand_0786.jpg
-    title: "An example of a 'bigature'"
-  - image_path: new_zealand_0796.jpg
-    title: "A tent made from garden flotsam"
-
-tirau:
-  - image_path: featured.jpg
-    title: "Tīrau's corrugated iron 'ram' and 'sheep' buildings"
-  - image_path: new_zealand_0809.jpg
-    title: "Tīrau's corrugated iron 'dog' building"
-
-poppys:
-  - image_path: new_zealand_0806.jpg
-    title: "Tasty, and adorable!"
-
-hangi:
-  - image_path: new_zealand_0810.jpg
-    title: "The hāngī"
+galleries:
+  luggage:
+    - image_path: new_zealand_0602.jpg
+      title: "Me, at Heathrow Airport, with all of our luggage"
+  weta-unleashed:
+    - image_path: new_zealand_0743.jpg
+      title: "I'm dying inside because I wanted to go to the All Black Experience"
+    - image_path: new_zealand_0748.jpg
+      title: "It's a good job they turned to stone"
+    - image_path: new_zealand_0757.jpg
+      title: "A special entrance for a special tour"
+    - image_path: new_zealand_0764.jpg
+      title: "The health and safety officer helping us stay safe"
+    - image_path: new_zealand_0766.jpg
+      title: "Various models and prototypes"
+    - image_path: new_zealand_0774.jpg
+      title: "Need a hand?"
+    - image_path: new_zealand_0778.jpg
+      title: "A Wētā recreation that looks lifelike"
+    - image_path: new_zealand_0786.jpg
+      title: "An example of a 'bigature'"
+    - image_path: new_zealand_0796.jpg
+      title: "A tent made from garden flotsam"
+  tirau:
+    - image_path: featured.jpg
+      title: "Tīrau's corrugated iron 'ram' and 'sheep' buildings"
+    - image_path: new_zealand_0809.jpg
+      title: "Tīrau's corrugated iron 'dog' building"
+  poppys:
+    - image_path: new_zealand_0806.jpg
+      title: "Tasty, and adorable!"
+  hangi:
+    - image_path: new_zealand_0810.jpg
+      title: "The hāngī"
 ---
 
 ## Monday 3^rd^: The Tour Begins

@@ -31,65 +31,58 @@ maps:
         lat: -44.66817459648156
         lon: 167.9272560624858
 
-milford-coach:
-  - image_path: new_zealand_1887.jpeg
-    title: "Windows as far as the eye can see"
-
-milford-morning:
-  - image_path: new_zealand_1894.jpeg
-    title: "Not quite the right misty mountains"
-  - image_path: new_zealand_1895.jpeg
-    title: "A misty and rainy view out over the bay at Te Anau"
-
-milford-mirror-lakes:
-  - image_path: new_zealand_1928.jpeg
-    title: "The Earl Mountains reflects off the Mirror Lakes"
-  - image_path: new_zealand_1929.jpeg
-    title: "Low lying clouds covering the Earl Mountains"
-  - image_path: new_zealand_1934.jpeg
-    title: "The Earl Mountains reflects off the Mirror Lakes"
-
-milford-monkey-creek:
-  - image_path: new_zealand_1955.jpeg
-    title: "A Kia wandering along the ground shaking down tourists for food"
-  - image_path: new_zealand_1958.jpeg
-    title: "A Kia eyeing up a tasty rubber car snack"
-  - image_path: new_zealand_1961.jpeg
-    title: "Two Kia working in a team"
-
-milford-rainforest:
-  - image_path: new_zealand_1018.jpeg
-    title: "Frozen winter wonderland before Homer Tunnel"
-  - image_path: new_zealand_1977.jpeg
-    title: "Tropical Rainforest after Homer Tunnel"
-
-milford-boat:
-  - image_path: new_zealand_1997.jpeg
-    title: "The magnificent 'Haven'"
-
-milford:
-  - image_path: new_zealand_2009.jpeg
-    title: &milford_comment "A breathtaking shot of Milford Sound"
-  - image_path: new_zealand_2034.jpeg
-    title: *milford_comment
-  - image_path: new_zealand_2038.jpeg
-    title: *milford_comment
-  - image_path: new_zealand_2056.jpeg
-    title: *milford_comment
-  - image_path: new_zealand_1028.jpeg
-    title: *milford_comment
-  - image_path: new_zealand_2110.jpeg
-    title: *milford_comment
-
-milford-waterfalls:
-  - image_path: new_zealand_2076.jpeg
-    title: "One of the many waterfalls in Milford Sound"
-  - image_path: new_zealand_2117.jpeg
-    title: "Another of the many waterfalls in Milford Sound"
-
-milford-sunset:
-  - image_path: new_zealand_1033.jpeg
-    title: "One final sunset to bookend a beautiful day"
+galleries:
+  milford-coach:
+    - image_path: new_zealand_1887.jpeg
+      title: "Windows as far as the eye can see"
+  milford-morning:
+    - image_path: new_zealand_1894.jpeg
+      title: "Not quite the right misty mountains"
+    - image_path: new_zealand_1895.jpeg
+      title: "A misty and rainy view out over the bay at Te Anau"
+  milford-mirror-lakes:
+    - image_path: new_zealand_1928.jpeg
+      title: "The Earl Mountains reflects off the Mirror Lakes"
+    - image_path: new_zealand_1929.jpeg
+      title: "Low lying clouds covering the Earl Mountains"
+    - image_path: new_zealand_1934.jpeg
+      title: "The Earl Mountains reflects off the Mirror Lakes"
+  milford-monkey-creek:
+    - image_path: new_zealand_1955.jpeg
+      title: "A Kia wandering along the ground shaking down tourists for food"
+    - image_path: new_zealand_1958.jpeg
+      title: "A Kia eyeing up a tasty rubber car snack"
+    - image_path: new_zealand_1961.jpeg
+      title: "Two Kia working in a team"
+  milford-rainforest:
+    - image_path: new_zealand_1018.jpeg
+      title: "Frozen winter wonderland before Homer Tunnel"
+    - image_path: new_zealand_1977.jpeg
+      title: "Tropical Rainforest after Homer Tunnel"
+  milford-boat:
+    - image_path: new_zealand_1997.jpeg
+      title: "The magnificent 'Haven'"
+  milford:
+    - image_path: new_zealand_2009.jpeg
+      title: &milford_comment "A breathtaking shot of Milford Sound"
+    - image_path: new_zealand_2034.jpeg
+      title: *milford_comment
+    - image_path: new_zealand_2038.jpeg
+      title: *milford_comment
+    - image_path: new_zealand_2056.jpeg
+      title: *milford_comment
+    - image_path: new_zealand_1028.jpeg
+      title: *milford_comment
+    - image_path: new_zealand_2110.jpeg
+      title: *milford_comment
+  milford-waterfalls:
+    - image_path: new_zealand_2076.jpeg
+      title: "One of the many waterfalls in Milford Sound"
+    - image_path: new_zealand_2117.jpeg
+      title: "Another of the many waterfalls in Milford Sound"
+  milford-sunset:
+    - image_path: new_zealand_1033.jpeg
+      title: "One final sunset to bookend a beautiful day"
 ---
 
 There was a stroke of 'luck' before we arrived in New Zealand.

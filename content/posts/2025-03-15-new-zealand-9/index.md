@@ -34,20 +34,19 @@ maps:
         lat: 51.4775
         lon: -0.461389
 
-queenstown-gardens:
-  - image_path: new_zealand_2127.jpeg
-    title: "A view out over the bay from Queenstown Gardens"
-  - image_path: new_zealand_2135.jpeg
-    title: "A Kurī sculpture found in the gardens"
-  - image_path: new_zealand_2142.jpeg
-    title: "A view of the peninsula and the Queenstown Gardens"
-
-queenstown-kiwi:
-  - image_path: new_zealand_2141.jpeg
-    title: "Me and a Kiwi (not to scale)"
-
-heading-home:
-  - image_path: heading_home.png
+galleries:
+  queenstown-gardens:
+    - image_path: new_zealand_2127.jpeg
+      title: "A view out over the bay from Queenstown Gardens"
+    - image_path: new_zealand_2135.jpeg
+      title: "A Kurī sculpture found in the gardens"
+    - image_path: new_zealand_2142.jpeg
+      title: "A view of the peninsula and the Queenstown Gardens"
+  queenstown-kiwi:
+    - image_path: new_zealand_2141.jpeg
+      title: "Me and a Kiwi (not to scale)"
+  heading-home:
+    - image_path: heading_home.png
 ---
 
 ## Saturday 15^th^: Auckland Encore

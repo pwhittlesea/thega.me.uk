@@ -38,33 +38,28 @@ maps:
         lat: -41.291761454471406
         lon: 174.78748114376063
 
-
-glow-worm:
-  - image_path: new_zealand_1053.jpeg
-    title: "This is my best (and only) picture of the cave"
-
-hairy-feet:
-  - image_path: new_zealand_0822.jpeg
-    title: "The path up to Staddle Farm"
-  - image_path: new_zealand_0826.jpeg
-    title: "The beautiful mountains overlooking the filming locations"
-  - image_path: new_zealand_1175.jpeg
-    title: "A view out across the rolling hills"
-
-hairy-sitting:
-  - image_path: new_zealand_0837-full.jpeg
-
-hairy-sting:
-  - image_path: new_zealand_1138-full.jpeg
-
-hairy-rock:
-  - image_path: new_zealand_1205-full.jpeg
-
-hairy-swords:
-  - image_path: new_zealand_1073.jpeg
-    title: "My other half always looks at home holding a sword"
-  - image_path: new_zealand_1078.jpeg
-    title: "Me, as dabbing Gandalf"
+galleries:
+  glow-worm:
+    - image_path: new_zealand_1053.jpeg
+      title: "This is my best (and only) picture of the cave"
+  hairy-feet:
+    - image_path: new_zealand_0822.jpeg
+      title: "The path up to Staddle Farm"
+    - image_path: new_zealand_0826.jpeg
+      title: "The beautiful mountains overlooking the filming locations"
+    - image_path: new_zealand_1175.jpeg
+      title: "A view out across the rolling hills"
+  hairy-sitting:
+    - image_path: new_zealand_0837-full.jpeg
+  hairy-sting:
+    - image_path: new_zealand_1138-full.jpeg
+  hairy-rock:
+    - image_path: new_zealand_1205-full.jpeg
+  hairy-swords:
+    - image_path: new_zealand_1073.jpeg
+      title: "My other half always looks at home holding a sword"
+    - image_path: new_zealand_1078.jpeg
+      title: "Me, as dabbing Gandalf"
 ---
 
 Welcome back to our Tour through New Zealand.
