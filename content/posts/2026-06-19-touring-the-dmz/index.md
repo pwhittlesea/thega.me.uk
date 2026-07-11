@@ -100,7 +100,7 @@ In [part 1]({{< ref "2026-06-06-south-korea-1" >}}) we had arrived in Korea afte
 
 Now it was time to get stuck into some serious sightseeing.
 
-## 9^th^ May: Touring the DMZ
+## 10^th^ May: Touring the DMZ
 
 What better way to start a fun, relaxing holiday, than to sign up for a tour of the Korean DMZ (Demilitarized Zone).
 

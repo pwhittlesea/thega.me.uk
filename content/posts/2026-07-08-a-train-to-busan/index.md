@@ -164,7 +164,7 @@ In [part 3]({{< ref "2026-06-24-dressing-up-at-gyeongbokgung" >}}) we went for a
 
 But now it was time to wave goodbye to Seoul (for now), and head to our next location.
 
-## 12^th^ May: A Train to Busan
+## 13^th^ May: A Train to Busan
 
 That next location was on the opposite end of the country.
 Busan, known for its stunning beaches, was to be our escape from the city.
@@ -328,9 +328,9 @@ To finish off the night, you guessed it, we watched more [The Master's Sun]({{< 
 
 Busan is, as the sign said, good.
 
-## 13^th^ May: Seaside Tour
+## 14^th^ May: Seaside Tour
 
-Wednesday was the day for another tour.
+Thursday was the day for another tour.
 This time we were booked on another 'Get Your Guide' day out, ['Busan: Top Coastal Highlights with Sky Capsule Full Day Tour'](https://gyg.me/Q9SxXt4l) (which is a mouthful).
 
 Our [DMZ tour]({{< ref "2026-06-19-touring-the-dmz" >}}) exceeded our expectations, so we had high hopes for this one.

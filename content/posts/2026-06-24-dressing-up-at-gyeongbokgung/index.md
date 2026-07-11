@@ -125,7 +125,7 @@ In [part 2]({{< ref "2026-06-19-touring-the-dmz" >}}) we headed to the Korean {{
 
 It was a very serious and sobering day.
 
-## 10^th^ May: Dressing Up at Gyeongbokgung
+## 11^th^ May: Dressing Up at Gyeongbokgung
 
 But today our destination was a chance to lighten the mood.
 A holiday palate-cleanser if you will.
@@ -221,7 +221,7 @@ Once inside, the palace was beautiful.
 I want to say we took in the palace, and we did.
 But there was a significant amount of wandering around and taking photos of ourselves.
 
-Even though the palace was the top tourist spot in the area (and it was a Sunday), there were parts that felt empty, tranquil, even secluded.
+Even though the palace was the top tourist spot in the area, there were parts that felt empty, tranquil, even secluded.
 The sun was shining overhead, and the palaces buildings were immaculately maintained.
 
 {{< mm-gallery id="gyeongbokgung-palace" caption="The buildings of the palace" >}}
@@ -245,7 +245,7 @@ Now I love Sushi, and one of our group said [Gimbap](https://en.wikipedia.org/wi
 Imagine Sushi, but longer.
 What's not to love?
 
-As it was Sunday, our choice was very limited, but we found 'Sky Gimbap' ([Google](https://maps.app.goo.gl/t3nqrQ1hVquivtD56), [Naver](https://naver.me/Gow2S8R3)) open at the time of our greatest need.
+Quite a few places were closed, so our choice was very limited, but we found 'Sky Gimbap' ([Google](https://maps.app.goo.gl/t3nqrQ1hVquivtD56), [Naver](https://naver.me/Gow2S8R3)) open at the time of our greatest need.
 
 One step up from a hole in the wall, inside was adorably decorated and big enough for two and a half tables, and every seat was taken.
 We asked how long and were told half an hour, which suited us fine.
@@ -298,9 +298,9 @@ Myeongdong was much busier at nighttime, so we only spent an hour or so, before 
 Determined to finish [Master's Sun](https://en.wikipedia.org/wiki/Master's_Sun) before we head back to the UK, we stayed up past midnight to try and make a dent in it.
 There are only 17 episodes, but each was an hour.
 
-## 11^th^ May: Eunpyeong Hanok Village
+## 12^th^ May: Eunpyeong Hanok Village
 
-Monday was a day which began without any concrete plans.
+Tuesday was a day which began without any concrete plans.
 
 We had a desire to see more 'traditional Korea', so one of our group suggested that we head to the traditional _'Eunpyeong Hanok Village'_ ([Google](https://maps.app.goo.gl/EZB6ap3LAYEjNKj96) / [Naver](https://naver.me/FRoc8PAh)).
 Where we were staying was a 'traditional' hanok (with air-conditioning), but it was surrounded by other more modern buildings; so it was an outlier.

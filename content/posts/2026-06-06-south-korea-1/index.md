@@ -103,7 +103,7 @@ Now, I am trying to write about my latest holiday within a month of making the t
 Before you depart on this journey, let me warn you; I write these blogs primarily for myself.
 My memory is notoriously bad for anything that's not tech, so these blogs help me remember what happened, as well as curating the 17.5GB and 1000+ photos and videos down into a manageable amount.
 
-## 7^th^ May: Korea Bound
+## 7^th^ - 8^th^ May: Korea Bound
 
 {{< map name="map_london_to_seoul" google="false" >}}
 
@@ -325,7 +325,7 @@ The cups of ice specifically, which you can either have there, or throw into the
 
 Back at the Hanok we shovelled instant ramen into our faces while watching more _Master's Sun_ before bed.
 
-## 8^th^ May: Chilling in Seoul
+## 9^th^ May: Chilling in Seoul
 
 On day two, a miracle happened.
 Because of the havoc we had played on our internal clocks, my other half woke up bright and early and made the decision to go get breakfast.
