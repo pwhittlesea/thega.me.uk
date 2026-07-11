@@ -56,55 +56,49 @@ maps:
       - lat: -45.03347057750902
         lon: 168.66279045647295
 
-nomad:
-  - image_path: new_zealand_0977.jpeg
-    title: "One car with the license plate 'SARUMN'"
-  - image_path: new_zealand_1716.jpeg
-    title: "Another car with the license plate 'LGOLAS'"
-  - image_path: new_zealand_1872.jpeg
-    title: "A final car with the license plate 'ISLDUR'"
-
-nomad-beorns-hall:
-  - image_path: new_zealand_1718.jpeg
-    title: "The mountains around Isengard that we couldn't get to because it was raining too hard"
-  - image_path: new_zealand_1721.jpeg
-    title: "The location of Beorn's Hall, exploded X-Men farmhouse in the foreground"
-  - image_path: new_zealand_1725.jpeg
-    title: "A mist covered Lothlórien"
-
-nomad-lothlorien:
-  - image_path: new_zealand_1740.jpeg
-    title: "The forests of Lothlórien"
-  - image_path: new_zealand_0982.jpeg
-    title: "A duel of the most epic kind"
-
-nomad-oliphaunt:
-  - image_path: new_zealand_1771.jpeg
-    title: "Me and someone else from our group, reproducing the Oliphaunt scene"
-  - image_path: new_zealand_1767.jpeg
-    title: "The view from Ithilien Lookout"
-  - image_path: new_zealand_1779.jpeg
-    title: "Po. Tay. Toes."
-
-nomad-skippers:
-  - image_path: new_zealand_1791.jpeg
-    title: "A view from the Land Cruiser"
-  - image_path: new_zealand_1795.jpeg
-    title: "The valley was sparse and windy"
-
-nomad-bruinen:
-  - image_path: new_zealand_1816.jpeg
-    title: "Our view while panning for gold"
-  - image_path: new_zealand_1824.jpeg
-    title: "If you want him, come and claim him"
-
-nomad-argonath:
-  - image_path: new_zealand_1844.jpeg
-    title: "Although a lot of CGI was used, this is the river that the two kings stood, arms raised"
-
-ice:
-  - image_path: new_zealand_1885.jpeg
-    title: "Our drinks in ice 'glasses' at the Ice Bar"
+galleries:
+  nomad:
+    - image_path: new_zealand_0977.jpeg
+      title: "One car with the license plate 'SARUMN'"
+    - image_path: new_zealand_1716.jpeg
+      title: "Another car with the license plate 'LGOLAS'"
+    - image_path: new_zealand_1872.jpeg
+      title: "A final car with the license plate 'ISLDUR'"
+  nomad-beorns-hall:
+    - image_path: new_zealand_1718.jpeg
+      title: "The mountains around Isengard that we couldn't get to because it was raining too hard"
+    - image_path: new_zealand_1721.jpeg
+      title: "The location of Beorn's Hall, exploded X-Men farmhouse in the foreground"
+    - image_path: new_zealand_1725.jpeg
+      title: "A mist covered Lothlórien"
+  nomad-lothlorien:
+    - image_path: new_zealand_1740.jpeg
+      title: "The forests of Lothlórien"
+    - image_path: new_zealand_0982.jpeg
+      title: "A duel of the most epic kind"
+  nomad-oliphaunt:
+    - image_path: new_zealand_1771.jpeg
+      title: "Me and someone else from our group, reproducing the Oliphaunt scene"
+    - image_path: new_zealand_1767.jpeg
+      title: "The view from Ithilien Lookout"
+    - image_path: new_zealand_1779.jpeg
+      title: "Po. Tay. Toes."
+  nomad-skippers:
+    - image_path: new_zealand_1791.jpeg
+      title: "A view from the Land Cruiser"
+    - image_path: new_zealand_1795.jpeg
+      title: "The valley was sparse and windy"
+  nomad-bruinen:
+    - image_path: new_zealand_1816.jpeg
+      title: "Our view while panning for gold"
+    - image_path: new_zealand_1824.jpeg
+      title: "If you want him, come and claim him"
+  nomad-argonath:
+    - image_path: new_zealand_1844.jpeg
+      title: "Although a lot of CGI was used, this is the river that the two kings stood, arms raised"
+  ice:
+    - image_path: new_zealand_1885.jpeg
+      title: "Our drinks in ice 'glasses' at the Ice Bar"
 ---
 
 We left [part 6]({{< ref "2025-01-11-new-zealand-6" >}}) after a full day on a coach, visiting individual filming locations in the area of Queenstown.

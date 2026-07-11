@@ -54,24 +54,23 @@ maps:
         lat: -38.106563710921314
         lon: 176.22083340538035
 
-three-photos:
-  - image_path: new_zealand_0647.jpg
-    title: "The Waiheke Bay"
-    alt: "Some alt text"
-  - image_path: new_zealand_0648.jpg
-    title: "More Waiheke Bay"
-  - image_path: new_zealand_0652.jpg
-    title: "The view out over Stonyridge Vineyard"
-
-two-photos:
-  - image_path: new_zealand_0647.jpg
-    title: "The Waiheke Bay"
-  - image_path: new_zealand_0652.jpg
-    title: "The view out over Stonyridge Vineyard"
-
-one-photo:
-  - image_path: new_zealand_0652.jpg
-    title: "The view out over Stonyridge Vineyard"
+galleries:
+  three-photos:
+    - image_path: new_zealand_0647.jpg
+      title: "The Waiheke Bay"
+      alt: "Some alt text"
+    - image_path: new_zealand_0648.jpg
+      title: "More Waiheke Bay"
+    - image_path: new_zealand_0652.jpg
+      title: "The view out over Stonyridge Vineyard"
+  two-photos:
+    - image_path: new_zealand_0647.jpg
+      title: "The Waiheke Bay"
+    - image_path: new_zealand_0652.jpg
+      title: "The view out over Stonyridge Vineyard"
+  one-photo:
+    - image_path: new_zealand_0652.jpg
+      title: "The view out over Stonyridge Vineyard"
 ---
 
 This page contains a collection of markdown entities to demo/test their rendering.

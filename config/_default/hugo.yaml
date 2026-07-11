@@ -108,7 +108,7 @@ params:
     cardView: true
 
   article:
-    showDateUpdated: true
+    showDateUpdated: false
     showHero: true
     heroStyle: "big"
     showTableOfContents: true

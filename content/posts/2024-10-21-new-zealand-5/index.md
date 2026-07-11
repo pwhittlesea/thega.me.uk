@@ -31,39 +31,35 @@ maps:
       - lat: -41.291761454471406
         lon: 174.78748114376063
 
-off-road-nazgul:
-  - image_path: new_zealand_1258-full.jpeg
-
-off-road-tree:
-  - image_path: new_zealand_1275-full.jpeg
-
-off-road:
-  - image_path: new_zealand_1304.jpeg
-    title: "A view over Wellington from Mount Victoria"
-
-weta-cave:
-  - image_path: new_zealand_1316.jpeg
-    title: "Even the Trolls were celebrating"
-  - image_path: new_zealand_1330.jpeg
-    title: "Lurtz looks positively festive"
-  - image_path: new_zealand_1331.jpeg
-    title: "If there was a head, it had a birthday hat"
-
-weta-take-2:
-  - image_path: new_zealand_0917.jpeg
-    title: "My other half trying on a helmet"
-  - image_path: new_zealand_1399.jpeg
-    title: "Two models showing different stages of contruction"
-  - image_path: new_zealand_1400.jpeg
-    title: "A model of the Balrog"
-
-te-papa:
-  - image_path: new_zealand_1417.jpeg
-    title: "The first room of the exhibit"
-  - image_path: new_zealand_1427.jpeg
-    title: "The machine gun trio"
-  - image_path: new_zealand_1428.jpeg
-    title: "Another angle of the machine gun trio"
+galleries:
+  off-road-nazgul:
+    - image_path: new_zealand_1258-full.jpeg
+  off-road-tree:
+    - image_path: new_zealand_1275-full.jpeg
+  off-road:
+    - image_path: new_zealand_1304.jpeg
+      title: "A view over Wellington from Mount Victoria"
+  weta-cave:
+    - image_path: new_zealand_1316.jpeg
+      title: "Even the Trolls were celebrating"
+    - image_path: new_zealand_1330.jpeg
+      title: "Lurtz looks positively festive"
+    - image_path: new_zealand_1331.jpeg
+      title: "If there was a head, it had a birthday hat"
+  weta-take-2:
+    - image_path: new_zealand_0917.jpeg
+      title: "My other half trying on a helmet"
+    - image_path: new_zealand_1399.jpeg
+      title: "Two models showing different stages of contruction"
+    - image_path: new_zealand_1400.jpeg
+      title: "A model of the Balrog"
+  te-papa:
+    - image_path: new_zealand_1417.jpeg
+      title: "The first room of the exhibit"
+    - image_path: new_zealand_1427.jpeg
+      title: "The machine gun trio"
+    - image_path: new_zealand_1428.jpeg
+      title: "Another angle of the machine gun trio"
 ---
 
 In part 4, we arrived in Wellington.

@@ -32,49 +32,45 @@ maps:
         lat: -38.15669720945249
         lon: 176.27306650948898
 
-hobbiton:
-  - image_path: new_zealand_0822.jpg
-    title: "A hole fit for a Hobbit"
-  - image_path: new_zealand_0834.jpg
-    title: "A view out over Hobbiton"
-  - image_path: new_zealand_0853.jpg
-    title: "My very convincing Gandalf costume"
-  - image_path: new_zealand_0879.jpg
-    title: "A view over Hobbiton from Bag End"
-  - image_path: new_zealand_0887.jpg
-    title: "Bag End"
-  - image_path: new_zealand_0911.jpg
-    title: "Gandalf comes calling"
-  - image_path: new_zealand_0973.jpg
-    title: "A cozy fireplace in a cozy Hobbit hole"
-  - image_path: new_zealand_0768-1.jpg
-    title: "The mill by the river"
-  - image_path: new_zealand_0807.jpg
-    title: "A view from the Green Dragon"
-
-meta-hobbit-holes:
-  - image_path: new_zealand_5454.jpg
-    title: "A Hobbit hole in a Hobbit hole"
-
-hobbit-holes:
-  - image_path: new_zealand_0994.jpg
-    title: "My other half hard at work in the Hobbit hole"
-  - image_path: new_zealand_1022.jpg
-    title: "The Hobbit holes were not designed for me"
-
-green-dragon:
-  - image_path: new_zealand_0787.jpg
-    title: "The outstanding Green Dragon pub"
-
-treewalk:
-  - image_path: new_zealand_1029.jpg
-    title: "Lanterns by world-renowned designer David Trubridge"
-  - image_path: new_zealand_5503.jpg
-    title: "Laser light show"
-
-bonus-mini:
-  - image_path: new_zealand_1034.jpg
-    title: "A bonus Mini we found on the way back to the hotel"
+galleries:
+  hobbiton:
+    - image_path: new_zealand_0822.jpg
+      title: "A hole fit for a Hobbit"
+    - image_path: new_zealand_0834.jpg
+      title: "A view out over Hobbiton"
+    - image_path: new_zealand_0853.jpg
+      title: "My very convincing Gandalf costume"
+    - image_path: new_zealand_0879.jpg
+      title: "A view over Hobbiton from Bag End"
+    - image_path: new_zealand_0887.jpg
+      title: "Bag End"
+    - image_path: new_zealand_0911.jpg
+      title: "Gandalf comes calling"
+    - image_path: new_zealand_0973.jpg
+      title: "A cozy fireplace in a cozy Hobbit hole"
+    - image_path: new_zealand_0768-1.jpg
+      title: "The mill by the river"
+    - image_path: new_zealand_0807.jpg
+      title: "A view from the Green Dragon"
+  meta-hobbit-holes:
+    - image_path: new_zealand_5454.jpg
+      title: "A Hobbit hole in a Hobbit hole"
+  hobbit-holes:
+    - image_path: new_zealand_0994.jpg
+      title: "My other half hard at work in the Hobbit hole"
+    - image_path: new_zealand_1022.jpg
+      title: "The Hobbit holes were not designed for me"
+  green-dragon:
+    - image_path: new_zealand_0787.jpg
+      title: "The outstanding Green Dragon pub"
+  treewalk:
+    - image_path: new_zealand_1029.jpg
+      title: "Lanterns by world-renowned designer David Trubridge"
+    - image_path: new_zealand_5503.jpg
+      title: "Laser light show"
+  bonus-mini:
+    - image_path: new_zealand_1034.jpg
+      title: "A bonus Mini we found on the way back to the hotel"
 ---
 
 > In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.

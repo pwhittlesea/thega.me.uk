@@ -1,5 +1,11 @@
 {{/* Hugo shortcode version of mm-gallery.html */}}
-{{ $gallery := index .Page.Params (.Get "id") }}
+{{- $gallery_id := .Get "id" -}}
+{{- $gallery := slice -}}
+{{- if isset .Page.Params.galleries $gallery_id -}}
+  {{- $gallery = index .Page.Params.galleries $gallery_id -}}
+{{- else -}}
+  {{- errorf "Gallery on page '%s' not found: '%s'" .Page.Params.title $gallery_id -}}
+{{- end }}
 
 {{/* Determine gallery layout */}}
 {{- $gallery_layout := "" -}}

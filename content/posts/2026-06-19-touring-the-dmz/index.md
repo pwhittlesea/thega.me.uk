@@ -50,43 +50,44 @@ maps:
         lat: 37.91084137437475
         lon: 126.70592096895552
 
-suspension-bridge:
-  - image_path: south_korea_2629.webp
-    title: A view out over Majang Lake
-    alt: Thin trees in the foreground, behind them a blue-green lake with trees and hills behind it
-  - image_path: south_korea_2635.webp
-    title: A photo opportunity with the lake in the background
-    alt: A stone relief of the lake and its name sit in front of a photo frame with a lake in the background
-  - image_path: south_korea_2637.webp
-    title: A view out over Majang Lake
-    alt: A tree covered hill behind a lake with a path running in front of it with an informational sign
-freedom-bridge:
-  - image_path: south_korea_8850.webp
-    title: The wooden Bridge of Freedom
-    alt: A wooden trestle bridge with a handrail over a small lake surrounded by trees
-  - image_path: south_korea_10_125029.webp
-    title: The Last Train Out
-    alt: An informational sign with a rusted train in the background
-  - image_path: south_korea_10_125111.webp
-    title: A sign showing the distance to Seoul and Gaeseong from the Bridge of Freedom
-    alt: A white wooden sign in front of a barbed wire fence with an arrow pointing left (22km to Gaeseong) and an arrow pointng right (53km to Seoul).
-  - image_path: south_korea_10_130021.webp
-    title: Bell Pavilion in Imjingak Park
-    alt: A traditional Korean pavilion with red pillars with a bell hanging at it's center
-dmz-park:
-  - image_path: south_korea_2643.webp
-    title: The relaxing park behind the Third Tunnel of Aggression
-    alt: A small pond with reeds and a waterwheel surrounded by trees
-  - image_path: south_korea_2648.webp
-    title: The photo opportunity fence at the DMZ
-    alt: A man in a flowery shirt standing on train tracks in front of a decorative barbed wire fence inscribed with the text 'DMZ'
-dora-observatory:
-  - image_path: south_korea_2651.webp
-    title: The front lawn at the New Dora Observatory
-    alt: A large sign with white letters saying 'Paju' on a dry lawn with people walking around it
-  - image_path: south_korea_2655.webp
-    title: A view from the observatory over South Korea
-    alt: A metal fence with trees in the foreground and in the distance the flat tree covered landscape of South Korea
+galleries:
+  suspension-bridge:
+    - image_path: south_korea_2629.webp
+      title: A view out over Majang Lake
+      alt: Thin trees in the foreground, behind them a blue-green lake with trees and hills behind it
+    - image_path: south_korea_2635.webp
+      title: A photo opportunity with the lake in the background
+      alt: A stone relief of the lake and its name sit in front of a photo frame with a lake in the background
+    - image_path: south_korea_2637.webp
+      title: A view out over Majang Lake
+      alt: A tree covered hill behind a lake with a path running in front of it with an informational sign
+  freedom-bridge:
+    - image_path: south_korea_8850.webp
+      title: The wooden Bridge of Freedom
+      alt: A wooden trestle bridge with a handrail over a small lake surrounded by trees
+    - image_path: south_korea_10_125029.webp
+      title: The Last Train Out
+      alt: An informational sign with a rusted train in the background
+    - image_path: south_korea_10_125111.webp
+      title: A sign showing the distance to Seoul and Gaeseong from the Bridge of Freedom
+      alt: A white wooden sign in front of a barbed wire fence with an arrow pointing left (22km to Gaeseong) and an arrow pointng right (53km to Seoul).
+    - image_path: south_korea_10_130021.webp
+      title: Bell Pavilion in Imjingak Park
+      alt: A traditional Korean pavilion with red pillars with a bell hanging at it's center
+  dmz-park:
+    - image_path: south_korea_2643.webp
+      title: The relaxing park behind the Third Tunnel of Aggression
+      alt: A small pond with reeds and a waterwheel surrounded by trees
+    - image_path: south_korea_2648.webp
+      title: The photo opportunity fence at the DMZ
+      alt: A man in a flowery shirt standing on train tracks in front of a decorative barbed wire fence inscribed with the text 'DMZ'
+  dora-observatory:
+    - image_path: south_korea_2651.webp
+      title: The front lawn at the New Dora Observatory
+      alt: A large sign with white letters saying 'Paju' on a dry lawn with people walking around it
+    - image_path: south_korea_2655.webp
+      title: A view from the observatory over South Korea
+      alt: A metal fence with trees in the foreground and in the distance the flat tree covered landscape of South Korea
 ---
 
 > [!INFO] Want to know less?

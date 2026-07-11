@@ -5,65 +5,60 @@ categories: [holidays]
 tags: [Italy]
 summary: "We were invited to a wedding in Italy, and we decided to stay longer to soak in the fantastic Italian culture."
 
-monopoli:
-  - image_path: IMG_1995.jpg
-    title: "A quiet street in Monopoli, at night"
-  - image_path: IMG_2009.jpg
-    title: "Basilica Cattedrale Maria SS. della Madia"
-  - image_path: IMG_2061.jpg
-    title: "Another nighttime street in Monopoli"
-
-grotte-di-castellana:
-  - image_path: IMG_2015.jpg
-    title: "A view out of the main entrance to the caves at Grotte di Castellana"
-  - image_path: IMG_2017.jpg
-    title: "Stalagmites and stalactites in the caves"
-
-alberobello:
-  - image_path: IMG_2025.jpg
-    title: "Trulli in Alberobello"
-  - image_path: featured.jpg
-    title: "A view from the gardens in Alberobello"
-  - image_path: IMG_7054.jpg
-    title: "A Trullo with a conical roof in Alberobello"
-  - image_path: IMG_7052.jpg
-    title: "One of the Alberobello locals"
-
-grottaglie:
-  - image_path: IMG_7038.jpg
-    title: "Ceramic steps in Grottaglie"
-  - image_path: IMG_7040.jpg
-    title: "Old vases in the ceramics museum"
-  - image_path: IMG_7042.jpg
-    title: "Modern art in the ceramics museum"
-
-ostuni:
-  - image_path: IMG_7071.jpg
-    title: "The narrow streets of Ostuni"
-  - image_path: IMG_7077.jpg
-    title: "Inside the Duomo di Santa Maria Assunta"
-  - image_path: IMG_7081.jpg
-    title: "Even narrower streets in Ostuni, full of life"
-
-girolamo:
-  - image_path: IMG_7094.jpg
-    title: "The wine vats at Tenute Girolamo"
-  - image_path: IMG_7097.jpg
-    title: "The cellar at Tenute Girolamo"
-
-food:
-  - image_path: IMG_6918.jpg
-    title: "A simple pizza in Monopoli"
-  - image_path: IMG_2039.jpg
-    title: "Octopus on bread"
-  - image_path: IMG_7100.jpg
-    title: "Fried Seafood"
-  - image_path: IMG_2041.jpg
-    title: "A glorious doughnut"
-  - image_path: 3f513f96-9b80-4202-a780-c3948e00a9b5.jpg
-    title: "Gelato in Monopoli"
-  - image_path: IMG_7122.jpg
-    title: "A fancy salted caramel dessert"
+galleries:
+  monopoli:
+    - image_path: IMG_1995.jpg
+      title: "A quiet street in Monopoli, at night"
+    - image_path: IMG_2009.jpg
+      title: "Basilica Cattedrale Maria SS. della Madia"
+    - image_path: IMG_2061.jpg
+      title: "Another nighttime street in Monopoli"
+  grotte-di-castellana:
+    - image_path: IMG_2015.jpg
+      title: "A view out of the main entrance to the caves at Grotte di Castellana"
+    - image_path: IMG_2017.jpg
+      title: "Stalagmites and stalactites in the caves"
+  alberobello:
+    - image_path: IMG_2025.jpg
+      title: "Trulli in Alberobello"
+    - image_path: featured.jpg
+      title: "A view from the gardens in Alberobello"
+    - image_path: IMG_7054.jpg
+      title: "A Trullo with a conical roof in Alberobello"
+    - image_path: IMG_7052.jpg
+      title: "One of the Alberobello locals"
+  grottaglie:
+    - image_path: IMG_7038.jpg
+      title: "Ceramic steps in Grottaglie"
+    - image_path: IMG_7040.jpg
+      title: "Old vases in the ceramics museum"
+    - image_path: IMG_7042.jpg
+      title: "Modern art in the ceramics museum"
+  ostuni:
+    - image_path: IMG_7071.jpg
+      title: "The narrow streets of Ostuni"
+    - image_path: IMG_7077.jpg
+      title: "Inside the Duomo di Santa Maria Assunta"
+    - image_path: IMG_7081.jpg
+      title: "Even narrower streets in Ostuni, full of life"
+  girolamo:
+    - image_path: IMG_7094.jpg
+      title: "The wine vats at Tenute Girolamo"
+    - image_path: IMG_7097.jpg
+      title: "The cellar at Tenute Girolamo"
+  food:
+    - image_path: IMG_6918.jpg
+      title: "A simple pizza in Monopoli"
+    - image_path: IMG_2039.jpg
+      title: "Octopus on bread"
+    - image_path: IMG_7100.jpg
+      title: "Fried Seafood"
+    - image_path: IMG_2041.jpg
+      title: "A glorious doughnut"
+    - image_path: 3f513f96-9b80-4202-a780-c3948e00a9b5.jpg
+      title: "Gelato in Monopoli"
+    - image_path: IMG_7122.jpg
+      title: "A fancy salted caramel dessert"
 
 maps:
   - name: london_to_bari

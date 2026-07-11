@@ -51,37 +51,38 @@ maps:
         lat: 37.574749324972295
         lon: 126.98514364681236
 
-premium-economy:
-  - image_path: south_korea_2557.jpg
-    title: The view from our seats
-    alt: A Virgin Atlantic plane at a gate in Heathrow with red engines
-  - image_path: south_korea_2562.jpg
-    title: Pre-flight drinks
-    alt: Two tumblers of Prosecco sat on the central arm of aeroplane seats
-myeongdong-shops:
-  - image_path: south_korea_2585.jpg
-    title: A fun store front of the Artbox store
-    alt: A fun store front showing anthropomorphized animals waving hello
-  - image_path: south_korea_2580.jpg
-    title: A HBAF store front
-    alt: A fun store front showing anthropomorphized almonds in various outfits
-myeongdong-streets:
-  - image_path: south_korea_2578.jpg
-    title: A store selling snacks in Myeongdong
-    alt: A stall outside a shop with various items for sale
-  - image_path: south_korea_2586.jpg
-    title: A street in Myeongdong
-    alt: A street with stores either size with people standing in the street
-  - image_path: south_korea_2588.jpg
-    title: The flagship Olive Young Store in Myeongdong
-    alt: A tall glass building with a decal of Pokémon above the front door
-seoul-forest:
-  - image_path: south_korea_seoul_forest.jpg
-    title: A flower bed at the entrance of Seoul Forest
-    alt: A flower bed with a various wooden shelves and the text 'Seoul Forest' on a wooden board
-  - image_path: south_korea_2602.jpg
-    title: The fountain at the center of Seoul Forest
-    alt: A water fountain in a lake with long reeds in the foreground
+galleries:
+  premium-economy:
+    - image_path: south_korea_2557.jpg
+      title: The view from our seats
+      alt: A Virgin Atlantic plane at a gate in Heathrow with red engines
+    - image_path: south_korea_2562.jpg
+      title: Pre-flight drinks
+      alt: Two tumblers of Prosecco sat on the central arm of aeroplane seats
+  myeongdong-shops:
+    - image_path: south_korea_2585.jpg
+      title: A fun store front of the Artbox store
+      alt: A fun store front showing anthropomorphized animals waving hello
+    - image_path: south_korea_2580.jpg
+      title: A HBAF store front
+      alt: A fun store front showing anthropomorphized almonds in various outfits
+  myeongdong-streets:
+    - image_path: south_korea_2578.jpg
+      title: A store selling snacks in Myeongdong
+      alt: A stall outside a shop with various items for sale
+    - image_path: south_korea_2586.jpg
+      title: A street in Myeongdong
+      alt: A street with stores either size with people standing in the street
+    - image_path: south_korea_2588.jpg
+      title: The flagship Olive Young Store in Myeongdong
+      alt: A tall glass building with a decal of Pokémon above the front door
+  seoul-forest:
+    - image_path: south_korea_seoul_forest.jpg
+      title: A flower bed at the entrance of Seoul Forest
+      alt: A flower bed with a various wooden shelves and the text 'Seoul Forest' on a wooden board
+    - image_path: south_korea_2602.jpg
+      title: The fountain at the center of Seoul Forest
+      alt: A water fountain in a lake with long reeds in the foreground
 ---
 
 > [!INFO] Want to know less?
