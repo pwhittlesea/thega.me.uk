@@ -1,6 +1,6 @@
 ---
 title: "EMF"
-date: 2026-07-16
+date: 2026-07-12
 summary: "Quick links or notes about the 2026 EMF event"
 wide: true
 build:
