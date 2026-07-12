@@ -3,6 +3,8 @@ title: "EMF"
 date: 2026-07-16
 summary: "Quick links or notes about the 2026 EMF event"
 wide: true
+build:
+  list: never
 ---
 
 > [!WARNING] Not Official
