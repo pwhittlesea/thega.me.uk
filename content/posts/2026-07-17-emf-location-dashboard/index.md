@@ -19,7 +19,7 @@ Cue the _'Where in the EMF are people?!'_ dashboard.
 
 A completely overengineered alternative to texting me.
 
-![An ePaper device showing a table with one name and location](featured.JPEG "A TRMNL to hang outside our tent")
+![An ePaper device showing a table with one name and location](featured.webp "A TRMNL to hang outside our tent")
 
 ## Architecture
 
