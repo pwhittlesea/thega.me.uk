@@ -1,7 +1,4 @@
 main:
-- name: "EMF"
-  pageRef: "emf"
-  weight: 1
 - name: "About"
   pageRef: "about"
   weight: 10
