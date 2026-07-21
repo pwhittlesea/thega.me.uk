@@ -6,6 +6,9 @@ locale: "en-GB"
 enableGitInfo: true
 enableEmoji: true
 
+# Increase build timeout
+timeout: 180
+
 # Enable a series taxonomy (the other two are required by hugo)
 taxonomies:
   tag: "tags"
