@@ -1,3 +1,7 @@
+default_install_hook_types:
+  - pre-commit
+  - commit-msg
+
 repos:
   - repo: local
     hooks:
@@ -76,3 +80,11 @@ repos:
     hooks:
       - id: markdownlint
         args: ["--config=.hooks/.markdownlint.yaml", "--ignore=LICENSE.md"]
+
+  # Check commit messages
+  - repo: https://github.com/compilerla/conventional-pre-commit
+    rev: v4.4.0
+    hooks:
+      - id: conventional-pre-commit
+        stages: [commit-msg]
+        args: []
