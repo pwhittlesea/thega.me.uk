@@ -1,0 +1,18 @@
+{
+  "version": "0.1.1",
+  "url": "https://thega.me.uk",
+  "vouches": [
+    {
+      "url": "https://cablespaghetti.dev",
+      "vouched_at": "2026-07-23"
+    },
+    {
+      "url": "https://code.mendhak.com",
+      "vouched_at": "2026-07-23"
+    },
+    {
+      "url": "https://onlyrss.org",
+      "vouched_at": "2026-07-23"
+    }
+  ]
+}
