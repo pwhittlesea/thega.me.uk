@@ -355,7 +355,7 @@ After a very rushed visit to the bridge we hopped back on the coach for the nigh
 An eleven hour tour is a damn long tour, so we were very tired.
 Our group napped on the coach back, but once we arrived in Busan at 9pm, we decided that it was time to call it a night.
 
-We grabbed some Sushi from the 9/11 below our hotel, and retired for the night.
+We grabbed some Sushi from the 7-Eleven below our hotel, and retired for the night.
 
 ## 16^th^ May: Resting in Busan
 
