@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/code/rule-one/"
 title: "One Rule to Build Them All"
 date: 2024-05-25 18:56:00 +0000
 last_modified_at: 2024-10-21 20:30:48 +0000

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/the-beautiful-world-of-walter-mitty/"
 title: "The Beautiful World of Walter Mitty"
 date: 2025-03-28 23:09:00 +0000
 last_modified_at: 2025-04-25 16:00:31 +0000

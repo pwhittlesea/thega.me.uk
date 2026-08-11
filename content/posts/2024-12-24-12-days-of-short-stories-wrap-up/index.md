@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/12-days-of-short-stories-wrap-up/"
 title: "That's a Wrap - Twelve Days of Short Stories"
 date: 2024-12-24 13:21:00 +0000
 last_modified_at: 2025-04-27 11:56:51 +0000

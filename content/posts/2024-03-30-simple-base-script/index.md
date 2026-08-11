@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/code/simple-base-script/"
 title: "A Simple Script Base"
 date: 2024-03-30 21:23:00 +0000
 last_modified_at: 2024-10-21 20:30:48 +0000

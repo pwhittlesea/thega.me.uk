@@ -29,3 +29,7 @@ MD050:
 MD055:
   # Table pipe style
   style: "leading_and_trailing"
+
+MD059:
+  # Dont require a descriptive link text
+  prohibited_texts: []

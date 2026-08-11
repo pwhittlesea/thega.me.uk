@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/code/ssh-instead-of-https-for-terraform/"
 title: "Use ssh instead of https for Terraform modules"
 date: 2024-12-19 22:39:00 +0100
 last_modified_at: 2024-12-22 10:57:13 +0000
