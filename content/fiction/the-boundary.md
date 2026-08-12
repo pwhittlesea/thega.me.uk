@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/stories/the-boundary"
 title: "The Boundary"
 date: 2024-11-20 21:55:00 +0000
 summary: An anomaly is discovered behind Pluto, and mankind sends its best to investigate

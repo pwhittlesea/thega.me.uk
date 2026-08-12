@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/update/i-am-whittlesea-clark/"
 title: "I am Whittlesea-Clark"
 date: 2025-06-09 20:48:00 +0100
 last_modified_at: 2025-06-09 20:48:00 +0100

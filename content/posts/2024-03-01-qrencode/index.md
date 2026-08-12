@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/code/qrencode/"
 title: "Simple QR Code Command"
 date: 2024-03-01 21:34:00 +0000
 last_modified_at: 2024-10-21 20:30:48 +0000

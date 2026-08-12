@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/holidays/new-zealand-3/"
 title: "I visited New Zealand - Part 3"
 date: 2024-10-03 21:33:00 +0100
 last_modified_at: 2025-04-27 11:49:52 +0000

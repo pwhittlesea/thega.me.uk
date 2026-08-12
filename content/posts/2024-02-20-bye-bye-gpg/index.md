@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/code/bye-bye-gpg/"
 title: "Bye-Bye GPG"
 date: 2024-02-20 12:49:00 +0000
 last_modified_at: 2024-10-21 20:30:48 +0000

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/code/adding-maps-to-my-travel-posts/"
 title: "Adding Maps to my Travel Posts"
 date: 2024-09-28 21:31:00 +0100
 last_modified_at: 2025-04-27 11:49:52 +0000

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/update/bye-bye-github-pages-gem/"
 title: "Bye-Bye GitHub Pages Gem"
 date: 2025-04-27 23:13:00 +0200
 last_modified_at: 2025-05-05 14:30:36 +0100

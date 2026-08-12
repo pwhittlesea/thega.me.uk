@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/code/multiple-domains-with-github-pages/"
 title: "Multiple custom domains with GitHub Pages"
 date: 2024-11-17 18:59:00 +0100
 last_modified_at: 2025-04-27 11:49:52 +0000

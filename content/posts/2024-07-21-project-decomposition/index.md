@@ -1,6 +1,4 @@
 ---
-aliases:
-  - "/code/project-decomposition/"
 title: "Project Decomposition"
 date: 2024-07-21 12:00:00 +0000
 last_modified_at: 2024-10-21 20:30:48 +0000
