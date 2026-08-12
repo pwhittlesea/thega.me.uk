@@ -24,6 +24,7 @@ SKIP_PATHS=(
   "content/posts/2026-07-08-a-train-to-busan/external_here_we_go_again.webp"
   "content/posts/2026-07-08-a-train-to-busan/external_recycling_spain.webp"
   "content/posts/2026-07-08-a-train-to-busan/external_train_to_busan.webp"
+  "content/posts/2026-08-12-goodbye-south-korea/external_mummy.webp"
 )
 
 for file in $@
