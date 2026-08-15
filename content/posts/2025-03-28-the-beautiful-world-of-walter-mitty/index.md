@@ -23,7 +23,7 @@ But what makes this film a 10 out of 10 film for me?
 Why is it so special?
 
 {{< figure
-    src="the_secret_life_of_walter_mitty_1.jpg"
+    src="the_secret_life_of_walter_mitty_1.webp"
     alt="Still from The Secret Life of Walter Mitty (2013)"
     caption="Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation"
     >}}
@@ -51,7 +51,7 @@ You feel the water as he jumps from the helicopter into the Atlantic Ocean, tryi
 The wind blows through your hair as Walter long-boards away from a volcanic eruption, down the hills of Iceland.
 
 {{< figure
-    src="featured.jpg"
+    src="featured.webp"
     alt="Still from The Secret Life of Walter Mitty (2013)"
     caption="Photo credit: TM & © 2012 Twentieth Century Fox Film Corporation"
     >}}
