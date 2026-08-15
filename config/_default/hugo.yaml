@@ -127,3 +127,7 @@ params:
 
   taxonomy:
     cardView: true
+
+ignoreFiles:
+  # Ignore external image metadata JSON files
+  - '.*\.metadata\.json$'

@@ -8,8 +8,8 @@ repos:
     - id: exif-correct
       name: Exif Correct
       description: Removes all Exif data from images and sets the correct Copyright
-      entry: .hooks/correct_exif.sh
-      language: script
+      entry: python3 .hooks/correct_exif.py
+      language: python
       types: [image]
       exclude_types: [svg,gif]
     - id: generate-maps

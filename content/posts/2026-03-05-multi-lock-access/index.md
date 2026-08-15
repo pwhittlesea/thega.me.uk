@@ -41,4 +41,4 @@ Add another lock!
 This is so simple, yet so clever.
 And now you know about it too!
 
-![Multiple Locks](featured.jpg "[Multiple Locks](https://flickr.com/photos/mikecogh/34827705190) flickr photo by [mikecogh](https://flickr.com/people/mikecogh) shared under a [Creative Commons (BY-SA) license](https://creativecommons.org/licenses/by-sa/2.0/)")
+![Multiple Locks](featured.webp "[Multiple Locks](https://flickr.com/photos/mikecogh/34827705190) flickr photo by [mikecogh](https://flickr.com/people/mikecogh) shared under a [Creative Commons (BY-SA) license](https://creativecommons.org/licenses/by-sa/2.0/)")
