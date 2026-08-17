@@ -48,6 +48,7 @@ jobs:
         run: ./statichost_deploy.sh "demo-thega-me-uk" ./public
 
   deploy-live-statichost:
+    if: github.ref == 'refs/heads/main'
     needs: deploy-demo-statichost
     name: Deploy Live Environment
     runs-on: ubuntu-latest
