@@ -20,7 +20,56 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  HUGO_VERSION: 0.164.0
+
 jobs:
+
+  deploy-demo-statichost:
+    name: Deploy Demo Environment
+    runs-on: ubuntu-latest
+    environment:
+      name: demo
+      url: https://demo.thega.me.uk
+    env:
+      HUGO_ENVIRONMENT: development
+      STATICHOST_APIKEY: ${{ secrets.STATICHOST_APIKEY }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+      - name: Build the site
+        run: hugo --gc --minify
+      - name: Push To Statichost
+        run: ./statichost_deploy.sh "demo-thega-me-uk" ./public
+
+  deploy-live-statichost:
+    needs: deploy-demo-statichost
+    name: Deploy Live Environment
+    runs-on: ubuntu-latest
+    environment:
+      name: live
+      url: https://thega.me.uk
+    env:
+      HUGO_ENVIRONMENT: production
+      STATICHOST_APIKEY: ${{ secrets.STATICHOST_APIKEY }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+      - name: Build the site
+        run: hugo --gc --minify
+      - name: Push To Statichost
+        run: ./statichost_deploy.sh "live-thega-me-uk" ./public
+
   build:
     runs-on: ubuntu-latest
     steps:
@@ -35,7 +84,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.164.0'
+          hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
       - name: Build the site
         run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"

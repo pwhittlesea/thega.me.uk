@@ -1,0 +1,4 @@
+title: "[demo] thega.me.uk"
+baseURL: "https://demo.thega.me.uk"
+params:
+  colorScheme: "fire"
