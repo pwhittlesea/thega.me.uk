@@ -1,7 +1,6 @@
 # Hugo Configuration
 # https://gohugo.io/configuration/all/
 title: "thega.me.uk"
-baseURL: "https://thega.me.uk"
 locale: "en-GB"
 enableGitInfo: true
 enableEmoji: true
