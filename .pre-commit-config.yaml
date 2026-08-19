@@ -5,6 +5,13 @@ default_install_hook_types:
 repos:
   - repo: local
     hooks:
+    - id: validate-frontmatter
+      name: Validate Frontmatter
+      description: Check for mandatory fields in markdown front matter
+      entry: python3 .hooks/check_frontmatter.py
+      language: python
+      additional_dependencies: ["python-frontmatter"]
+      types: [markdown]
     - id: exif-correct
       name: Exif Correct
       description: Removes all Exif data from images and sets the correct Copyright

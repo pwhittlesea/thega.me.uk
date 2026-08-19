@@ -6,7 +6,6 @@ import s2sphere
 import staticmaps
 import frontmatter
 
-POST_PATH = "./content/posts"
 IMAGE_WIDTH = 720
 IMAGE_HEIGHT = 360
 FRONTMATTER_KEY = "maps"
